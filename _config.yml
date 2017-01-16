@@ -58,6 +58,6 @@ creator-url:
   exclude:
   - node_modules
 styles:
-  - #6eca97
+  - default
   - white
   - black
