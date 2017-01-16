@@ -50,10 +50,14 @@ sass:
   sass_dir: bower_components/bootstrap-sass/assets/stylesheets
   style: compressed
 exclude:
-- node_modules
-- Gruntfile.js
-- package.json
+  - node_modules
+  - Gruntfile.js
+  - package.json
 created-by: Kaseya
 creator-url:
   exclude:
   - node_modules
+styles:
+  - default: '#6eca97'
+  - white: '#fff'
+  - black: '#000'
