@@ -61,6 +61,6 @@ hero_title_styles:
   - default
   - white
   - black
-hero_paragraph-btn_styles:
+hero_paragraph_and_btn_styles:
   - white
   - black
