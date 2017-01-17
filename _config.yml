@@ -61,9 +61,9 @@ hero_title_styles:
   - default
   - white
   - black
-hero_par_styles:
+hero_paragraph_styles:
   - white
   - black
-hero_cta_styles:
+hero_CTA_styles:
   - white
   - black
