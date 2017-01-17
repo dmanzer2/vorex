@@ -57,14 +57,14 @@ created-by: Kaseya
 creator-url:
   exclude:
   - node_modules
-hero_title_styles:
+hero_title_color_style:
   - default
   - white
   - black
-hero_paragraph_and_btn_styles:
+hero_paragraph_and_button_color_style:
   - white
   - black
-CTA_title_color_style:
+CTA_text_color_style:
   - default
   - white
 CTA_button_color_style:
