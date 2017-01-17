@@ -4,9 +4,11 @@ permalink: /
 layout: main-template
 description: This is the index page and its description.
 hero_background_image: /assets/img/banners/vorex-banner2-1920x750.jpg
-hero_title_style: default
-hero_paragraph_and_btn_style: white
+hero_title_color_style: default
+hero_paragraph_and_button_color_style: white
 CTA_background_image: /assets/img/banners/home-banner-2.jpg
+CTA_text_color_style: default
+CTA_button_color_style: default
 ---
 
 <div id="page" class="hfeed site">
@@ -16,9 +18,9 @@ CTA_background_image: /assets/img/banners/home-banner-2.jpg
 				<div class="banner" style="background:url('{{ site.baseurl }}{{ page.hero_background_image }}') center center no-repeat;">
 
 					<div class="mcontent">
-						<h3 class="banner-title editable" style="color:{{ page.hero_title_style }};">Change your Life<span class="typed-wrap">&nbsp;<span class="typed"></span></span></h3>
-						<div class="banner-tagline editable" style="color:{{ page.hero_paragraph_and_btn_style }};"><p>Better project insight, automated invoicing, and intuitive operational management to grow your business, improve your efficiency and help your customers excel. Better project insight, automated invoicing, and intuitive operational management to grow your business, improve your efficiency and help your customers excel. Some new text again</p></div>
-						<a class="banner-link btn editable" title="Request a Free Trial" href="#" style="color:{{ page.hero_paragraph_and_btn_style }}; border-color:{{ page.hero_paragraph_and_btn_style }};">Free Trial</a>
+						<h3 class="banner-title editable" style="color:{{ page.hero_title_color_style }};">Change your Life<span class="typed-wrap">&nbsp;<span class="typed"></span></span></h3>
+						<div class="banner-tagline editable" style="color:{{ page.hero_paragraph_and_button_color_style }};"><p>Better project insight, automated invoicing, and intuitive operational management to grow your business, improve your efficiency and help your customers excel. Better project insight, automated invoicing, and intuitive operational management to grow your business, improve your efficiency and help your customers excel. Some new text again</p></div>
+						<a class="banner-link btn editable" title="Request a Free Trial" href="#" style="color:{{ page.hero_paragraph_and_button_color_style }}; border-color:{{ page.hero_paragraph_and_button_color_style }};">Free Trial</a>
 					</div>
 				</div>
 			</div>
@@ -46,8 +48,8 @@ CTA_background_image: /assets/img/banners/home-banner-2.jpg
 		</div>
 		<div class="section section2 one-column" style="background:url('{{ site.baseurl }}{{ page.CTA_background_image }}') center center no-repeat;">
 			<div class="mcontent">
-				<span class="section-title editable">A Better Run Business <span class="italic editable">leads to</span>  a Better Quality of Life</span>
-				<span class="section-copy editable">Stay a step ahead of the competition with Vorex’s business management platform that provides a simplified snapshot of your day-to-day business operations and overall profitability.  The end result?  Knowing that your kids will be the last thing you put to bed each night, not work.</span><a class="section-link btn redborder editable" href="#">See How We Can Help</a>
+				<span class="section-title editable" style="color:{{ page.CTA_text_color_style }};">A Better Run Business <span class="italic editable">leads to</span>  a Better Quality of Life</span>
+				<span class="section-copy editable" style="color:{{ page.CTA_text_color_style }};">Stay a step ahead of the competition with Vorex’s business management platform that provides a simplified snapshot of your day-to-day business operations and overall profitability.  The end result?  Knowing that your kids will be the last thing you put to bed each night, not work.</span><a class="section-link btn redborder editable" href="#" style="color:{{ page.CTA_button_color_style }}; border-color:{{ page.CTA_button_color_style }};">See How We Can Help</a>
 			</div>
 		</div>
 		<div class="mcontent blog-section">
