@@ -64,3 +64,9 @@ hero_title_styles:
 hero_paragraph_and_btn_styles:
   - white
   - black
+CTA_title_color_style:
+  - default
+  - white
+CTA_button_color_style:
+  - default
+  - white
