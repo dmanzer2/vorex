@@ -56,7 +56,7 @@ exclude:
 created-by: Kaseya
 creator-url:
   exclude:
-  - node_modules
+    - node_modules
 hero_title_color_style:
   - default
   - white
