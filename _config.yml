@@ -64,9 +64,9 @@ hero_title_color_style:
 hero_paragraph_and_button_color_style:
   - white
   - black
-CTA_text_color_style:
+photo_section_text_color_style:
   - default
   - white
-CTA_button_color_style:
+photo_section_button_color_style:
   - default
   - white
