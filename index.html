@@ -10,6 +10,12 @@ photo_section_background_image: /assets/img/banners/home-banner-2.jpg
 photo_section_text_color_style: default
 photo_section_button_color_style: default
 ---
+<style>
+.front-page .one-column.section2 .section-title span:before,
+.front-page .one-column.section2 .section-title span:after {
+	background-color: {{ page.photo_section_text_color_style }};
+}
+</style>
 
 <div id="page" class="hfeed site">
 	<div id="content" class="site-content">
@@ -47,9 +53,9 @@ photo_section_button_color_style: default
 			</div>
 		</div>
 		<div class="section section2 one-column" style="background:url('{{ site.baseurl }}{{ page.photo_section_background_image }}') center center no-repeat;">
-			<div class="mcontent" style="color:{{ page.photo_section_text_color_style }};">
-				<span class="section-title editable">A Better Run Business <span class="italic editable">leads to</span>  a Better Quality of Life</span>
-				<span class="section-copy editable">Stay a step ahead of the competition with Vorex’s business management platform that provides a simplified snapshot of your day-to-day business operations and overall profitability.  The end result?  Knowing that your kids will be the last thing you put to bed each night, not work.</span><a class="section-link btn redborder editable" href="#" style="color:{{ page.photo_section_button_color_style }}; border-color:{{ page.photo_section_button_color_style }};">See How We Can Help</a>
+			<div class="mcontent">
+				<span class="section-title editable" style="color:{{ page.photo_section_text_color_style }};">A Better Run Business <span class="italic editable" style="color:{{ page.photo_section_text_color_style }};">leads to</span>  a Better Quality of Life</span>
+				<span class="section-copy editable" style="color:{{ page.photo_section_text_color_style }};">Stay a step ahead of the competition with Vorex’s business management platform that provides a simplified snapshot of your day-to-day business operations and overall profitability.  The end result?  Knowing that your kids will be the last thing you put to bed each night, not work.</span><a class="section-link btn redborder editable" href="#" style="color:{{ page.photo_section_button_color_style }}; border-color:{{ page.photo_section_button_color_style }};">See How We Can Help</a>
 			</div>
 		</div>
 		<div class="mcontent blog-section">
