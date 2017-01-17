@@ -57,7 +57,7 @@ created-by: Kaseya
 creator-url:
   exclude:
   - node_modules
-styles:
+hero_title_styles:
   - default
   - white
   - black
