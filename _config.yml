@@ -57,16 +57,7 @@ created-by: Kaseya
 creator-url:
   exclude:
     - node_modules
-hero_title_color_style:
+styles:
   - default
   - white
   - black
-hero_paragraph_and_button_color_style:
-  - white
-  - black
-photo_section_text_color_style:
-  - default
-  - white
-photo_section_button_color_style:
-  - default
-  - white
