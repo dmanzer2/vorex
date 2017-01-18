@@ -1,28 +1,8 @@
 ---
-title: Welcome to Jekyll!
-date: 2016-11-14 21:08:22 -07:00
-categories:
-- jekyll
-- update
-layout: post
+layout: posts
+title: welcome to jekyll
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat diam neque, eget aliquet augue iaculis dignissim. Mauris sed tellus vel ligula scelerisque ornare. Nullam dignissim ac arcu et consectetur. Mauris vitae sodales lorem. Morbi tincidunt, lectus feugiat accumsan fringilla, ex tortor feugiat sapien, ut eleifend nibh nibh id erat. Suspendisse scelerisque nulla ut ligula pellentesque, in varius dolor tincidunt. Pellentesque mauris nulla, vulputate ut neque a, pulvinar vestibulum nisl. Vestibulum odio velit, euismod eu ipsum et, maximus efficitur sapien. Aenean imperdiet, nulla at mollis ullamcorper, eros lacus gravida erat, vel volutpat purus eros vitae risus. Sed et vehicula dui. Vestibulum non erat est. Fusce posuere urna nibh, sed faucibus purus vehicula sed.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Praesent eget eros diam. Nam consectetur mi vel sem dapibus convallis. Proin mollis magna id tortor interdum, quis accumsan velit fermentum. Vestibulum suscipit dui et augue bibendum pellentesque. Maecenas porta, arcu a eleifend semper, sem diam sollicitudin ligula, sed eleifend sapien justo a massa. Quisque varius ligula magna, id pulvinar tortor molestie a. Vestibulum consequat nisi tortor, non fringilla diam porttitor et. In blandit, odio sit amet euismod varius, ligula metus fringilla est, vitae egestas neque diam at orci.
