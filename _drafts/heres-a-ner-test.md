@@ -4,7 +4,7 @@ date: 2016-11-16 04:08:00
 categories:
   - jekyll
   - update
-layout: post
+layout: posts
 ---
 
 
