@@ -1,24 +1,23 @@
----
-layout: main-template
-image_path: /uploads/blogs-resources/msp.psa_.jpg
----
+<!-- site head -->
+{% include head.html %}
 
-<header>
-	<h1 class="page-title screen-reader-text">{{ page.title }}</h1>
-</header>
+<body class="parallax">
+  <!-- navigation -->
+  {% include header.html %}
 
-<article>
-	<header class="entry-header">
-		<h2 class="entry-title"><a href="#" rel="bookmark">{{ page.title }}</a></h2>
-		<span class="posted-on"><span class="screen-reader-text">Posted on {{ page.date }}</span>
-		<span class="author">By <a href="{{ site.baseurl }}">Vorex</a></span>
-		<span class="publish-date">on <time class="entry-date published updated" datetime="{{ page.title }}">{{ page.title }}</time></span>
-		<span class="cat-links"><span class="screen-reader-text">Categories</span><a href="#">Blog</a></span>
-	</header>
+	<div id="primary" class="content-area posts main-blog">
+		<div class="mcontent">
+			<main id="main" class="col col-l-6 site-main">
 
-	<div class="entry-content">
-		<a class="post-thumbnail" href="#" aria-hidden="true">
-		<img width="825" height="510" src="{{ site.baseurl }}{{ page.image_path }}" class="attachment-post-thumbnail wp-post-image" alt="{{ page.title }}" /></a>
-		<p>{{ content }} <a href="#" class="more-link">Read More <span class="screen-reader-text">{{ page.title }}</span></a></p>
+  		{{ content }}
+			
+			</main>
+		</div>
 	</div>
-</article>
+
+  {% include footer.html %}
+
+  <!-- scripts -->
+  {% include scripts.html %}
+</body>
+</html>
