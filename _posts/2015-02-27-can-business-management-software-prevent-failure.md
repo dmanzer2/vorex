@@ -4,6 +4,7 @@ date: 2015-02-27T19:42:10+00:00
 author: Vorex
 layout: posts
 permalink: /blog/can-business-management-software-prevent-failure/
+blog_image_path: /uploads/blogs-resources/background.png
 categories:
   - Blog
 ---
