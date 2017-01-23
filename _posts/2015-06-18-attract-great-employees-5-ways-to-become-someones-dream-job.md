@@ -1,5 +1,5 @@
 ---
-title: 'Attract Great Employees: 5 Ways to Become Someone&#8217;s Dream Job'
+title: "Attract Great Employees: 5 Ways to Become Someone's Dream Job"
 date: 2015-06-18 06:57:00
 author: Vorex
 layout: posts
@@ -29,16 +29,16 @@ This is a great way to keep your team up-to-date on the newest trends and ideas 
 
 Paying for continuing education keeps your team engaged and demonstrates that you are committed to their professional development. Subscription-based training programs are reasonably priced and offer big value in return for their relatively low cost.
 
-1. ** Communicate Effectively and Easily**
+1. \*\* Communicate Effectively and Easily\*\*
 
 There might be nothing more frustrating for employees than feeling like they don’t have visibility into projects at work. Eliminate the guessing games surrounding active projects within your organization and implement a [project management software](http://www.vorex.com/product/online-project-management/) that keeps everyone in the loop and communicating efficiently.
 
 Having an efficient way to manage and streamline  business processes ensures your team won’t get frustrated and can collaborate efficiently on every step along the way.
 
-1. ** Stream Premium Music**
+1. \*\* Stream Premium Music\*\*
    <br> These days, a lot of people listen to music while they work. For less than $10 a month, paying for your employees to have a premium music streaming subscription with Spotify, Rdio, Google Play, Beats, Rhapsody, or Pandora is a low cost way to add both value and fun to their days.
 
-1. ** Implement Peer Review Lunch Bonuses**
+2. \*\* Implement Peer Review Lunch Bonuses\*\*
 
 Do a modern twist on the “Employee of the Month” program, and allow the members of your team to vote for one another in a monthly peer review program.
 
