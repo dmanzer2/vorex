@@ -1,5 +1,5 @@
 ---
-title: 'Why &#8220;Ease-of-Use&#8221; Matters When it Comes to Your PSA Solution'
+title: 'Why "Ease-of-Use" Matters When it Comes to Your PSA Solution'
 date: 2015-12-07 06:21:00
 author: Vorex
 excerpt: 'The holidays are upon us, and you’re making that list and checking it twice, don’t forget to pick up a gift that can win you points with your business associates: a software solution that integrates project management (PM) and professional services automation (PSA).'
