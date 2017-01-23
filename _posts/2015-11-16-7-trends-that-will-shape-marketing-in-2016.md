@@ -1,10 +1,8 @@
 ---
-id: 1595
 title: 7 Trends That Will Shape Marketing in 2016
 date: 2015-11-16 05:12:00
 author: Vorex
 layout: posts
-guid: 'http://www.vorex.com/?p=1595'
 permalink: /blog/7-trends-to-look-out-for-in-marketing-for-2016/
 blog_image_path: /assets/img/blogs-resources/marketing.trends.jpg
 categories:
