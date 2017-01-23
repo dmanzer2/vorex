@@ -4,6 +4,7 @@ date: 2015-04-06T03:48:46+00:00
 author: Vorex
 layout: posts
 permalink: /blog/7-common-misconceptions-about-project-management/
+blog_image_path:
 categories:
   - Blog
 ---

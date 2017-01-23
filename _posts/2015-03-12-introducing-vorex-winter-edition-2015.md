@@ -4,6 +4,7 @@ date: 2015-03-12T07:00:43+00:00
 author: Vorex
 layout: posts
 permalink: /blog/introducing-vorex-winter-edition-2015/
+blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_71509271.jpg
 categories:
   - Blog
 ---
