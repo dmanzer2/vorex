@@ -1,5 +1,5 @@
 ---
-title: 'What&#8217;s the Difference Between Project Management and PSA?'
+title: "What's the Difference Between Project Management and PSA?"
 date: 2015-04-22 03:26:00
 author: Vorex
 layout: posts
