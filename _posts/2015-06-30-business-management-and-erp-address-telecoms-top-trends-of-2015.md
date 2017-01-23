@@ -4,7 +4,7 @@ date: 2015-06-30 15:25:00
 author: Vorex
 layout: posts
 permalink: /blog/business-management-and-erp-address-telecoms-top-trends-of-2015/
-blog_image_path:
+blog_image_path: /assets/img/blogs-resources/header_telecom.jpg
 categories:
   - Blog
 ---
