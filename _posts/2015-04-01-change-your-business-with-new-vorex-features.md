@@ -4,6 +4,7 @@ date: 2015-04-01T11:20:54+00:00
 author: Vorex
 layout: posts
 permalink: /blog/change-your-business-with-new-vorex-features/
+blog_image_path: /assets/img/blogs-resources/guy-laptop.jpg
 categories:
   - Blog
 ---
