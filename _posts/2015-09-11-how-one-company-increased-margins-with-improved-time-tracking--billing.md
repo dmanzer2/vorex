@@ -1,5 +1,5 @@
 ---
-title: 'How One Company Increased Margins with Improved Time Tracking &#038; Billing'
+title: 'How One Company Increased Margins with Improved Time Tracking & Billing'
 date: 2015-09-11 05:46:00
 author: Vorex
 layout: posts
