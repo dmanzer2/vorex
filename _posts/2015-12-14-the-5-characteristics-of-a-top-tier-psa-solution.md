@@ -1,10 +1,8 @@
 ---
-id: 1677
 title: The 5 Characteristics of a Top-tier PSA Solution
 date: 2015-12-14 06:12:00
 author: Vorex
 layout: posts
-guid: 'http://www.vorex.com/?p=1677'
 permalink: /blog/the-5-characteristics-of-a-top-tier-psa-solution/
 blog_image_path: /assets/img/blogs-resources/top.tier_.solution.jpg
 categories:
