@@ -4,6 +4,7 @@ date: 2015-10-05T05:34:25+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-improved-project-management-can-impact-the-customer-experience/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-12-16T05:26:14+00:00
 author: Vorex
 layout: posts
 permalink: /blog/why-msps-cant-afford-long-psa-implementations/
+blog_image_path:
 categories:
   - Blog
 ---

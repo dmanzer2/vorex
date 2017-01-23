@@ -4,6 +4,7 @@ date: 2015-04-21T03:43:36+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-time-saving-tools-for-agency-owners/
+blog_image_path:
 categories:
   - Blog
 ---

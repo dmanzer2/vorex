@@ -4,6 +4,7 @@ date: 2015-07-27T11:54:06+00:00
 author: Vorex
 layout: posts
 permalink: /blog/a-tour-of-american-industry-best-business-management-practices-for-software-and-technology/
+blog_image_path:
 categories:
   - Blog
   - Project Management

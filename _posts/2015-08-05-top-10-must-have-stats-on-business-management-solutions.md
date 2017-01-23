@@ -4,6 +4,7 @@ date: 2015-08-05T10:45:07+00:00
 author: Vorex
 layout: posts
 permalink: /blog/top-10-must-have-stats-on-business-management-solutions/
+blog_image_path:
 categories:
   - Blog
   - Project Management

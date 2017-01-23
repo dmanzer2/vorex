@@ -4,6 +4,7 @@ date: 2015-07-24T07:42:33+00:00
 author: Vorex
 layout: posts
 permalink: /blog/solving-the-agencys-project-management-challenge/
+blog_image_path:
 categories:
   - Blog
   - Project Management

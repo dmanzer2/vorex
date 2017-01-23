@@ -4,6 +4,7 @@ date: 2015-09-02T05:21:07+00:00
 author: Vorex
 layout: posts
 permalink: /blog/a-tour-of-american-industry-best-practices-for-success-in-telecom/
+blog_image_path:
 categories:
   - Blog
   - Project Management

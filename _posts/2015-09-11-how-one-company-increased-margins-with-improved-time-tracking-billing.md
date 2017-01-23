@@ -4,6 +4,7 @@ date: 2015-09-11T05:46:19+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-one-company-increased-margins-with-improved-time-tracking-billing/
+blog_image_path:
 categories:
   - Blog
   - Project Management

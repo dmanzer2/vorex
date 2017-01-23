@@ -4,6 +4,7 @@ date: 2015-06-03T09:00:45+00:00
 author: Vorex
 layout: posts
 permalink: /blog/top-4-reasons-our-new-office-makes-vorex-the-coolest-dallas-area-company/
+blog_image_path:
 categories:
   - Blog
 ---

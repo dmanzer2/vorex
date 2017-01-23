@@ -4,6 +4,7 @@ date: 2015-08-17T16:36:30+00:00
 author: Vorex
 layout: posts
 permalink: /blog/11-productivity-hacks-for-consultants/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -3,6 +3,7 @@ title: Three Tips for Entrepreneurs to Start Small and Dream Big
 date: 2015-05-06T10:20:43+00:00
 author: Vorex
 layout: posts
+blog_image_path:
 permalink: /blog/three-tips-for-entrepreneurs-to-start-small-and-dream-big/
 categories:
   - Blog

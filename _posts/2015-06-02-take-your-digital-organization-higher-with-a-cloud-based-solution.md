@@ -4,6 +4,7 @@ date: 2015-06-02T05:23:13+00:00
 author: Vorex
 layout: posts
 permalink: /blog/take-your-digital-organization-higher-with-a-cloud-based-solution/
+blog_image_path:
 categories:
   - Blog
   - Project Management

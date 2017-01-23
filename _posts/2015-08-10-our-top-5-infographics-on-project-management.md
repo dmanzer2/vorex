@@ -4,6 +4,7 @@ date: 2015-08-10T10:41:06+00:00
 author: Vorex
 layout: posts
 permalink: /blog/our-top-5-infographics-on-project-management/
+blog_image_path:
 categories:
   - Blog
   - Project Management

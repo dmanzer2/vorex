@@ -4,6 +4,7 @@ date: 2015-04-16T03:58:00+00:00
 author: Vorex
 layout: posts
 permalink: /blog/growth-versus-maintenance/
+blog_image_path:
 categories:
   - Blog
 ---

@@ -4,6 +4,7 @@ date: 2015-10-07T05:51:14+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-online-project-management-erp-can-help-digital-agencies-advance-their-businesses/
+blog_image_path:
 categories:
   - Blog
   - Project Management

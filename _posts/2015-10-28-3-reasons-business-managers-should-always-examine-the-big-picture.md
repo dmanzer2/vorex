@@ -4,6 +4,7 @@ date: 2015-10-28T05:12:43+00:00
 author: Vorex
 layout: posts
 permalink: /blog/3-reasons-business-managers-should-always-examine-the-big-picture/
+blog_image_path:
 categories:
   - Blog
   - Project Management

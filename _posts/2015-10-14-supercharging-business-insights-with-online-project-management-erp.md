@@ -4,6 +4,7 @@ date: 2015-10-14T05:33:17+00:00
 author: Vorex
 layout: posts
 permalink: /blog/supercharging-business-insights-with-online-project-management-erp/
+blog_image_path:
 categories:
   - Blog
 ---

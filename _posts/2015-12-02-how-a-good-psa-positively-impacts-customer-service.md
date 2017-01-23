@@ -4,6 +4,7 @@ date: 2015-12-02T05:51:35+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-a-good-psa-positively-impacts-customer-service/
+blog_image_path:
 categories:
   - Blog
   - Project Management

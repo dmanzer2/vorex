@@ -4,6 +4,7 @@ date: 2015-07-01T11:30:08+00:00
 author: Vorex
 layout: posts
 permalink: /blog/why-being-a-design-driven-company-leads-to-the-best-customer-experience/
+blog_image_path:
 categories:
   - Blog
 ---

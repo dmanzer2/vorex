@@ -4,6 +4,7 @@ date: 2015-04-10T03:58:13+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-things-your-competitors-can-teach-you-about-project-management/
+blog_image_path:
 categories:
   - Blog
   - Project Management

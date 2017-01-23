@@ -6,6 +6,7 @@ author: Vorex
 layout: posts
 guid: http://www.vorex.com/?p=1595
 permalink: /blog/7-trends-to-look-out-for-in-marketing-for-2016/
+blog_image_path:
 categories:
   - Blog
   - Project Management

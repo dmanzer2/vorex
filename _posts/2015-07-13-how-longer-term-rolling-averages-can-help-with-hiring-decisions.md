@@ -4,6 +4,7 @@ date: 2015-07-13T10:31:02+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-longer-term-rolling-averages-can-help-with-hiring-decisions/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-09-24T13:58:46+00:00
 author: Vorex
 layout: posts
 permalink: /blog/navigate-2015-vorex-and-continuum-integrate-for-better-business-workflows-and-customer-service/
+blog_image_path:
 categories:
   - Blog
 ---

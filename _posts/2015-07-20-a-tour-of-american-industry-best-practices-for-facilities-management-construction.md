@@ -4,6 +4,7 @@ date: 2015-07-20T06:29:46+00:00
 author: Vorex
 layout: posts
 permalink: /blog/a-tour-of-american-industry-best-practices-for-facilities-management-construction/
+blog_image_path:
 categories:
   - Blog
   - Project Management

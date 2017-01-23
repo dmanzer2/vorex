@@ -4,6 +4,7 @@ date: 2015-04-29T07:40:14+00:00
 author: Vorex
 layout: posts
 permalink: /blog/streamline-day-to-day-operations-work-smarter-not-harder/
+blog_image_path:
 categories:
   - Blog
   - Project Management

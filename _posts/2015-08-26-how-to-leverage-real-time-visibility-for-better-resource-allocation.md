@@ -4,6 +4,7 @@ date: 2015-08-26T05:45:57+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-to-leverage-real-time-visibility-for-better-resource-allocation/
+blog_image_path:
 categories:
   - Blog
   - Project Management

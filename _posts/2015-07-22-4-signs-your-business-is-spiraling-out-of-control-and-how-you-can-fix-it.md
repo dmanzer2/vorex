@@ -4,6 +4,7 @@ date: 2015-07-22T05:33:07+00:00
 author: Vorex
 layout: posts
 permalink: /blog/4-signs-your-business-is-spiraling-out-of-control-and-how-you-can-fix-it/
+blog_image_path:
 categories:
   - Blog
   - Project Management

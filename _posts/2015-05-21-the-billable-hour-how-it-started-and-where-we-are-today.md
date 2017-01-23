@@ -4,6 +4,7 @@ date: 2015-05-21T06:40:08+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-billable-hour-how-it-started-and-where-we-are-today/
+blog_image_path:
 categories:
   - Blog
   - Project Management

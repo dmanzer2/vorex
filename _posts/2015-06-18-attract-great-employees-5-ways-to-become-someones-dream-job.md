@@ -4,6 +4,7 @@ date: 2015-06-18T06:57:08+00:00
 author: Vorex
 layout: posts
 permalink: /blog/attract-great-employees-5-ways-to-become-someones-dream-job/
+blog_image_path:
 categories:
   - Blog
   - Project Management

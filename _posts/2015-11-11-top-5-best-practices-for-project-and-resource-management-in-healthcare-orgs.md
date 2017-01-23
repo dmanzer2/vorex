@@ -4,6 +4,7 @@ date: 2015-11-11T05:56:44+00:00
 author: Vorex
 layout: posts
 permalink: /blog/top-5-best-practices-for-project-and-resource-management-in-healthcare-orgs/
+blog_image_path:
 categories:
   - Blog
   - Project Management

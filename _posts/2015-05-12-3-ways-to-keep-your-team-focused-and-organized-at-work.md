@@ -4,6 +4,7 @@ date: 2015-05-12T06:08:11+00:00
 author: Vorex
 layout: posts
 permalink: /blog/3-ways-to-keep-your-team-focused-and-organized-at-work/
+blog_image_path:
 categories:
   - Blog
   - Project Management

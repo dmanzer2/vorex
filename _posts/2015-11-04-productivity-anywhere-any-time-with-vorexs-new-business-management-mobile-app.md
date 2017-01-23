@@ -4,6 +4,7 @@ date: 2015-11-04T05:01:46+00:00
 author: Vorex
 layout: posts
 permalink: /blog/productivity-anywhere-any-time-with-vorexs-new-business-management-mobile-app/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-07-21T12:09:03+00:00
 author: Vorex
 layout: posts
 permalink: /blog/vote-now-vorex-is-nominated-for-the-the-sleeter-group-awesome-app-award/
+blog_image_path:
 categories:
   - Blog
 ---

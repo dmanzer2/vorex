@@ -4,6 +4,7 @@ date: 2015-09-21T05:04:14+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-tips-for-selecting-the-best-time-expense-tracking-software-for-healthcare-organizations/
+blog_image_path:
 categories:
   - Blog
   - Project Management
