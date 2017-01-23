@@ -1,5 +1,5 @@
 ---
-title: 'Expense Tracking: It&#8217;s All A Balancing Act'
+title: "Expense Tracking: It's All A Balancing Act"
 date: 2015-05-25 05:56:00
 author: Vorex
 layout: posts
@@ -27,7 +27,7 @@ In order to understand your costs, you need to keep track of your expenses. [Not
 
 Tracking and understanding your expenses offers insight into the efficiency of different parts of your business. If product A’s expenses represent a higher percentage of its net value than product B’s, you might be well served to grow sales of product A, or try and improve the margins of product B. Without expense tracking, you’d be in the dark when it comes to determining your best course of action.
 
-1. ** Plotting A Course**
+1. \*\* Plotting A Course\*\*
 
 Planning ahead is one of the keys to managing the growth of your business. Anticipating your needs enables you to secure the resources you’ll need to continue to thrive. Monitoring trends in your expenses is absolutely necessary for predicting how you’ll have to adapt to a changing situation.
 
@@ -35,7 +35,7 @@ According to [Pex Card’s 2014 Benchmark Expense Survey](http://www.pexcard.com
 
 If additional staff is the key to your growth, you’ll have to take their compensation into account. Calculating how much of a payroll increase your business can support relies on careful expense tracking.
 
-1. ** Staying on Target**
+1. \*\* Staying on Target\*\*
 
 Spending money is an unavoidable part of running virtually every business. While we can’t avoid spending money, what we *can* do is make sure we’re spending it as effectively and efficiently as possible.
 
