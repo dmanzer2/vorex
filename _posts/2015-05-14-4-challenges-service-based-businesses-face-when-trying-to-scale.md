@@ -4,6 +4,7 @@ date: 2015-05-14T07:37:06+00:00
 author: Vorex
 layout: posts
 permalink: /blog/4-challenges-service-based-businesses-face-when-trying-to-scale/
+blog_image_path:
 categories:
   - Blog
 ---

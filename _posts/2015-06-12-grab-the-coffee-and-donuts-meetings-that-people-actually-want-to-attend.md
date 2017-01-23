@@ -4,6 +4,7 @@ date: 2015-06-12T10:30:32+00:00
 author: Vorex
 layout: posts
 permalink: /blog/grab-the-coffee-and-donuts-meetings-that-people-actually-want-to-attend/
+blog_image_path:
 categories:
   - Blog
   - Project Management

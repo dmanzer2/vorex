@@ -4,6 +4,7 @@ date: 2015-04-14T03:31:20+00:00
 author: Vorex
 layout: posts
 permalink: /blog/tips-for-scaling-a-rapidly-growing-business/
+blog_image_path:
 categories:
   - Blog
 ---

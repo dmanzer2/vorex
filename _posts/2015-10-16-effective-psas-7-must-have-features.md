@@ -4,6 +4,7 @@ date: 2015-10-16T05:12:54+00:00
 author: Vorex
 layout: posts
 permalink: /blog/effective-psas-7-must-have-features/
+blog_image_path:
 categories:
   - Blog
 ---

@@ -4,6 +4,7 @@ date: 2015-11-18T05:17:57+00:00
 author: Vorex
 layout: posts
 permalink: /blog/why-your-project-management-and-erp-technology-needs-an-update/
+blog_image_path:
 categories:
   - Blog
   - Project Management

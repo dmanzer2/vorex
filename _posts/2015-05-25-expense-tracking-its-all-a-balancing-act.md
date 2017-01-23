@@ -4,6 +4,7 @@ date: 2015-05-25T05:56:57+00:00
 author: Vorex
 layout: posts
 permalink: /blog/expense-tracking-its-all-a-balancing-act/
+blog_image_path:
 categories:
   - Blog
   - Project Management

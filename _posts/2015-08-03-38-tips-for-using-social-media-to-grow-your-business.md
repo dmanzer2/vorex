@@ -4,6 +4,7 @@ date: 2015-08-03T11:38:41+00:00
 author: Vorex
 layout: posts
 permalink: /blog/38-tips-for-using-social-media-to-grow-your-business/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-10-21T05:08:51+00:00
 author: Vorex
 layout: posts
 permalink: /blog/4-ways-stellar-service-desk-ticketing-can-grow-your-business/
+blog_image_path:
 categories:
   - Blog
   - Project Management

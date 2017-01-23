@@ -4,6 +4,7 @@ date: 2015-07-08T06:38:31+00:00
 author: Vorex
 layout: posts
 permalink: /blog/a-tour-of-american-industry-best-practices-for-consulting-and-professional-services-organization/
+blog_image_path:
 categories:
   - Blog
 ---

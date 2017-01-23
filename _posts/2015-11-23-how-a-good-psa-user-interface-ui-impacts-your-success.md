@@ -4,6 +4,7 @@ date: 2015-11-23T05:12:44+00:00
 author: Vorex
 layout: posts
 permalink: /blog/how-a-good-psa-user-interface-ui-impacts-your-success/
+blog_image_path:
 categories:
   - Blog
   - Project Management

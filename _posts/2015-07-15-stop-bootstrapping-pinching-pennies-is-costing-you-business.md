@@ -4,6 +4,7 @@ date: 2015-07-15T07:33:01+00:00
 author: Vorex
 layout: posts
 permalink: /blog/stop-bootstrapping-pinching-pennies-is-costing-you-business/
+blog_image_path:
 categories:
   - Blog
   - Project Management

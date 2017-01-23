@@ -4,6 +4,7 @@ date: 2015-06-22T06:35:18+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-1-tool-agency-owners-use-to-battle-the-odds/
+blog_image_path:
 categories:
   - Blog
   - Project Management

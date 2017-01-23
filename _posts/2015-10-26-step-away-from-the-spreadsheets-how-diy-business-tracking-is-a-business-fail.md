@@ -4,6 +4,7 @@ date: 2015-10-26T05:42:04+00:00
 author: Vorex
 layout: posts
 permalink: /blog/step-away-from-the-spreadsheets-how-diy-business-tracking-is-a-business-fail/
+blog_image_path:
 categories:
   - Blog
 ---

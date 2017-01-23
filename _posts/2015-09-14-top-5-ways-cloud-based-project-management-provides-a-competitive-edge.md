@@ -4,6 +4,7 @@ date: 2015-09-14T05:21:31+00:00
 author: Vorex
 layout: posts
 permalink: /blog/top-5-ways-cloud-based-project-management-provides-a-competitive-edge/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-08-19T16:47:48+00:00
 author: Vorex
 layout: posts
 permalink: /blog/4-must-know-trends-in-business-management/
+blog_image_path:
 categories:
   - Blog
   - Project Management

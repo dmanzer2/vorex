@@ -4,6 +4,7 @@ date: 2015-04-22T03:26:23+00:00
 author: Vorex
 layout: posts
 permalink: /blog/whats-the-difference-between-project-management-and-psa/
+blog_image_path:
 categories:
   - Blog
 ---

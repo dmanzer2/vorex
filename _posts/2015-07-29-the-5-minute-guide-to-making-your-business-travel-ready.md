@@ -4,6 +4,7 @@ date: 2015-07-29T16:46:38+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-5-minute-guide-to-making-your-business-travel-ready/
+blog_image_path:
 categories:
   - Blog
   - Project Management

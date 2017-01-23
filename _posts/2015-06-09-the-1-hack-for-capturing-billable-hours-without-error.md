@@ -4,6 +4,7 @@ date: 2015-06-09T05:48:05+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-1-hack-for-capturing-billable-hours-without-error/
+blog_image_path:
 categories:
   - Blog
   - Project Management

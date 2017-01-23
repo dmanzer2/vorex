@@ -4,6 +4,7 @@ date: 2015-09-15T11:07:27+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-reasons-a-project-planning-tool-can-make-the-difference-between-a-good-marketing-campaign-and-a-great-one/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-04-08T03:05:07+00:00
 author: Vorex
 layout: posts
 permalink: /blog/9-quick-tips-about-gaining-visibility-into-your-teams-efficiency/
+blog_image_path:
 categories:
   - Blog
 ---

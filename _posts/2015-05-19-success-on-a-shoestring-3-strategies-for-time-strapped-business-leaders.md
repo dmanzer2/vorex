@@ -4,6 +4,7 @@ date: 2015-05-19T07:20:30+00:00
 author: Vorex
 layout: posts
 permalink: /blog/success-on-a-shoestring-3-strategies-for-time-strapped-business-leaders/
+blog_image_path:
 categories:
   - Blog
   - Project Management

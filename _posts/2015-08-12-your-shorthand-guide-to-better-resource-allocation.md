@@ -4,6 +4,7 @@ date: 2015-08-12T11:05:47+00:00
 author: Vorex
 layout: posts
 permalink: /blog/your-shorthand-guide-to-better-resource-allocation/
+blog_image_path:
 categories:
   - Blog
   - Project Management

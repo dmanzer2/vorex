@@ -4,6 +4,7 @@ date: 2015-09-28T05:31:59+00:00
 author: Vorex
 layout: posts
 permalink: /blog/why-erp-is-a-must-for-project-based-businesses/
+blog_image_path:
 categories:
   - Blog
   - Project Management

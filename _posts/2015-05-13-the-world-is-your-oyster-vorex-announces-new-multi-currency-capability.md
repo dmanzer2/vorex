@@ -4,6 +4,7 @@ date: 2015-05-13T07:00:53+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-world-is-your-oyster-vorex-announces-new-multi-currency-capability/
+blog_image_path:
 categories:
   - Blog
 tags:

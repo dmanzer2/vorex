@@ -4,6 +4,7 @@ date: 2015-08-24T07:06:13+00:00
 author: Vorex
 layout: posts
 permalink: /blog/7-things-you-absolutely-need-from-a-business-management-solution/
+blog_image_path:
 categories:
   - Blog
   - Project Management

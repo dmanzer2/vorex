@@ -5,6 +5,7 @@ author: Vorex
 excerpt: Being in a service-oriented industry is never easy, but CPAs face extra challenges including dealing with complex and highly sensitive data and the need for real-time insight into operations to maximize profitability.
 layout: posts
 permalink: /blog/2015-practitioners-symposium-and-tech-conference-vorex-business-management-for-cpas-and-finance-professionals/
+blog_image_path:
 categories:
   - Blog
 ---

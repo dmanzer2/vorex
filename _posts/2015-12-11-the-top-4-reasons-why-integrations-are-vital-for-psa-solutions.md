@@ -4,6 +4,7 @@ date: 2015-12-11T05:12:02+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-top-4-reasons-why-integrations-are-vital-for-psa-solutions/
+blog_image_path:
 categories:
   - Blog
 ---

@@ -4,6 +4,7 @@ date: 2015-07-10T12:28:55+00:00
 author: Vorex
 layout: posts
 permalink: /blog/four-easy-ways-to-get-the-most-out-of-your-talent/
+blog_image_path:
 categories:
   - Blog
 ---

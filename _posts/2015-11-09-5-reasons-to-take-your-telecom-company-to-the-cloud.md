@@ -4,6 +4,7 @@ date: 2015-11-09T05:22:20+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-reasons-to-take-your-telecom-company-to-the-cloud/
+blog_image_path:
 categories:
   - Blog
 ---

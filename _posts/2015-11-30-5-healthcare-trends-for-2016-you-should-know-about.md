@@ -4,6 +4,7 @@ date: 2015-11-30T05:49:48+00:00
 author: Vorex
 layout: posts
 permalink: /blog/5-healthcare-trends-for-2016-you-should-know-about/
+blog_image_path:
 categories:
   - Blog
   - Project Management

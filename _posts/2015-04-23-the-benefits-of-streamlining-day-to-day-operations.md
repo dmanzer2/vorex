@@ -4,6 +4,7 @@ date: 2015-04-23T03:15:02+00:00
 author: Vorex
 layout: posts
 permalink: /blog/the-benefits-of-streamlining-day-to-day-operations/
+blog_image_path:
 categories:
   - Blog
 ---

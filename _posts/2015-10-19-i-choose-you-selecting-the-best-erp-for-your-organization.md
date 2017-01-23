@@ -4,6 +4,7 @@ date: 2015-10-19T05:44:03+00:00
 author: Vorex
 layout: posts
 permalink: /blog/i-choose-you-selecting-the-best-erp-for-your-organization/
+blog_image_path:
 categories:
   - Blog
 ---

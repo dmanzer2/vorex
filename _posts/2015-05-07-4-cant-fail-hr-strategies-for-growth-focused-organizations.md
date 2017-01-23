@@ -4,6 +4,7 @@ date: 2015-05-07T07:26:00+00:00
 author: Vorex
 layout: posts
 permalink: /blog/4-cant-fail-hr-strategies-for-growth-focused-organizations/
+blog_image_path:
 categories:
   - Blog
   - Project Management

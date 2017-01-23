@@ -6,6 +6,7 @@ author: Vorex
 layout: posts
 guid: http://www.vorex.com/?p=1677
 permalink: /blog/the-5-characteristics-of-a-top-tier-psa-solution/
+blog_image_path:
 categories:
   - Blog
 ---

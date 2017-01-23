@@ -5,6 +5,7 @@ author: Vorex
 excerpt: 'The holidays are upon us, and you’re making that list and checking it twice, don’t forget to pick up a gift that can win you points with your business associates: a software solution that integrates project management (PM) and professional services automation (PSA).'
 layout: posts
 permalink: /blog/why-ease-of-use-matters-when-it-comes-to-your-psa-solution/
+blog_image_path:
 categories:
   - Blog
   - Project Management

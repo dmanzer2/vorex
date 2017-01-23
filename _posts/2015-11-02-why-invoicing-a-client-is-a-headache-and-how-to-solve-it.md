@@ -4,6 +4,7 @@ date: 2015-11-02T05:14:47+00:00
 author: Vorex
 layout: posts
 permalink: /blog/why-invoicing-a-client-is-a-headache-and-how-to-solve-it/
+blog_image_path:
 categories:
   - Blog
   - Project Management

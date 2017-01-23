@@ -4,6 +4,7 @@ date: 2015-11-04T05:57:15+00:00
 author: Vorex
 layout: posts
 permalink: /blog/characteristics-of-a-modern-erp/
+blog_image_path:
 categories:
   - Blog
 ---

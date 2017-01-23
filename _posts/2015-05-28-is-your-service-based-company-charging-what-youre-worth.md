@@ -4,6 +4,7 @@ date: 2015-05-28T06:16:27+00:00
 author: Vorex
 layout: posts
 permalink: /blog/is-your-service-based-company-charging-what-youre-worth/
+blog_image_path:
 categories:
   - Blog
   - Project Management

@@ -4,6 +4,7 @@ date: 2015-09-16T05:19:34+00:00
 author: Vorex
 layout: posts
 permalink: /blog/3-reasons-every-telecom-company-needs-a-project-management-solution/
+blog_image_path:
 categories:
   - Blog
   - Project Management
