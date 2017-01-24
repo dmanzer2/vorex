@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Keeping track of the talent and skills on your team can be like that old [“Who’s on First”](https://www.youtube.com/watch?v=kTcRRaXV-fg) comedy skit from Abbott and Costello. Knowing who can do what is essential to making the best project assignments and growing your company, but as your company grows, it can become increasingly difficult to manage your team effectively.<!--more-->
+Keeping track of the talent and skills on your team can be like that old [“Who’s on First”](https://www.youtube.com/watch?v=kTcRRaXV-fg) comedy skit from Abbott and Costello. Knowing who can do what is essential to making the best project assignments and growing your company, but as your company grows, it can become increasingly difficult to manage your team effectively.
 
 That’s why today’s top HR professionals are looking to [business management platforms](http://www.vorex.com/product/online-project-management/) to help HR teams and management better track and utilize employee’s talents. Here are four easy ways a business management platform can help you get the most out of your talent.
 

@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Everyone’s goal is to be more productive during the day, whether at work or doing chores around the house. The key is to [work smarter not harder.](http://www.vorex.com/streamline-day-to-day-operations-work-smarter-not-harder/) By adapting these 11 productivity hacks, you can get more accomplished during the day, do better work and minimize the kind of crippling stress that can lead to burnout.<!--more-->
+Everyone’s goal is to be more productive during the day, whether at work or doing chores around the house. The key is to [work smarter not harder.](http://www.vorex.com/streamline-day-to-day-operations-work-smarter-not-harder/) By adapting these 11 productivity hacks, you can get more accomplished during the day, do better work and minimize the kind of crippling stress that can lead to burnout.
 
 ![project management software](http://media.giphy.com/media/4sn4lFufKgEIU/giphy.gif)
 

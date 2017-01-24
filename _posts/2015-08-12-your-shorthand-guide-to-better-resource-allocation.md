@@ -14,7 +14,7 @@ tags:
 
 Completing projects on-time and on-budget — and knowing when you can take on new work — requires careful oversight of who is doing what in your organization.
 
-Having the right resources available to complete any project is only part of the equation–how you distribute and balance those resources also plays a major role in success. [Resource allocation](http://searchcio.techtarget.com/definition/resource-allocation) is an ongoing process that relies on shrewd management to stay flexible and react to changing situations.<!--more-->
+Having the right resources available to complete any project is only part of the equation–how you distribute and balance those resources also plays a major role in success. [Resource allocation](http://searchcio.techtarget.com/definition/resource-allocation) is an ongoing process that relies on shrewd management to stay flexible and react to changing situations.
 
 Managing your resources well can even give you a leg up on competitors who have more to work with and can [take your organization to the next level](http://www.vorex.com/media/vorex-a-leader-in-cloud-based-psa-solutions-announces-customer-agreement-with-alere-health-to-be-its-resource-utilization-software-provider/). Let’s take a quick look at some of the key terms, techniques and ideas on which better resource allocation systems are built.
 

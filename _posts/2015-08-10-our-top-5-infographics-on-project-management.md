@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Visualizing the relationships between all the moving parts of a project can be [a major challenge](http://www.vorex.com/growth-versus-maintenance/). But sometimes all it takes to put everything in perspective is a putting things down on paper – or even in digital form – in a well-crafted infographic.<!--more-->
+Visualizing the relationships between all the moving parts of a project can be [a major challenge](http://www.vorex.com/growth-versus-maintenance/). But sometimes all it takes to put everything in perspective is a putting things down on paper – or even in digital form – in a well-crafted infographic.
 
 Infographics’ unique ability to present information in a visually appealing, easy to digest format makes them especially useful for explaining the finer points of any issue. In that spirit, here are five project management infographics we love from around the web!
 

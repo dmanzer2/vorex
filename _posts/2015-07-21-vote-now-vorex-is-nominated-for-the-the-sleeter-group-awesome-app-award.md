@@ -13,7 +13,7 @@ tags:
 
 &nbsp;
 
-Given that our greatest mission at Vorex is providing the best possible service and product to our customers, you can imagine our excitement at being nominated for [The Sleeter Group’s Awesome App Award](http://www.sleeter.com/awesomeapps). <!--more-->
+Given that our greatest mission at Vorex is providing the best possible service and product to our customers, you can imagine our excitement at being nominated for [The Sleeter Group’s Awesome App Award](http://www.sleeter.com/awesomeapps). 
 
 The Awesome Application Program “recognizes the highest quality software solutions available in the SMB accounting software marketplace,” and as of this morning you can now [cast your votes for Vorex](http://www.sleeter.com/awesomeapps/2016/vorex)!
 

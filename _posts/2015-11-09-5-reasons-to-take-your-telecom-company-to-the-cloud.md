@@ -13,7 +13,7 @@ tags:
 
 New things are often greeted with suspicion, and sometimes for good reason. ‘New Coke’ anyone?
 
-It wasn’t very long ago that the new idea of conducting business in the cloud was regarded with similar suspicion. Especially in light of the stumbles of [early cloud computing giants like Amazon](http://www.nytimes.com/2011/04/23/technology/23cloud.html?_r=0). At one point, it seemed the cloud was destined to always look like some sort of technological ‘Wild West,’ where the only rules were that there weren’t any.<!--more-->
+It wasn’t very long ago that the new idea of conducting business in the cloud was regarded with similar suspicion. Especially in light of the stumbles of [early cloud computing giants like Amazon](http://www.nytimes.com/2011/04/23/technology/23cloud.html?_r=0). At one point, it seemed the cloud was destined to always look like some sort of technological ‘Wild West,’ where the only rules were that there weren’t any.
 
 ![project management software](https://media.giphy.com/media/2QgQAfK5x3D0c/giphy.gif){: .aligncenter}
 

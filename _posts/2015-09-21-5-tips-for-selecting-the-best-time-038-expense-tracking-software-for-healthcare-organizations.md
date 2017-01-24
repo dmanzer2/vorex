@@ -15,7 +15,7 @@ tags:
 In healthcare, the focus is on keeping patients healthy. Each minute is spent trying to ensure people live long, full lives,[not on minding every penny](http://i.imgur.com/y35eMUa.jpg) and every stray second.
 
 **\*\***\*\*However, in today’s world, as the cost of healthcare increases for patients and the market adjusts to decreased margins for practices, efficiency has become more important than ever. When it comes to matters of life or death,[every minute](http://www.vorex.com/product/time-expense-tracking/)–and every penny–can make a dramatic difference in providing excellent care.
-<!--more-->
+
 
 ![project management](https://media.giphy.com/media/rA3nL8T8B3zDa/giphy.gif)
 

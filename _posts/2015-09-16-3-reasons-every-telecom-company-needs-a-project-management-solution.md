@@ -12,7 +12,7 @@ tags:
 ---
 
 
-With the [rise of streaming media sources](http://www.forbes.com/sites/larrymagid/2013/03/19/households-abandoning-cable-and-satellite-for-streaming/) and the move away from traditional cable and phone providers, the telecom industry is seeing [more competition for fewer customers](http://www.vorex.com/business-management-and-erp-address-telecoms-top-trends-of-2015/). This puts a higher premium on having the right systems in place to successfully achieve and manage growth.<!--more-->
+With the [rise of streaming media sources](http://www.forbes.com/sites/larrymagid/2013/03/19/households-abandoning-cable-and-satellite-for-streaming/) and the move away from traditional cable and phone providers, the telecom industry is seeing [more competition for fewer customers](http://www.vorex.com/business-management-and-erp-address-telecoms-top-trends-of-2015/). This puts a higher premium on having the right systems in place to successfully achieve and manage growth.
 
 These consolidation trends seen across the growing-more-competitive-by-the-day telecom industry have made successful project management (PM) vital. Below is a guide to the top three reasons why *every* telecom company should be using a project management system to gain a competitive advantage.
 

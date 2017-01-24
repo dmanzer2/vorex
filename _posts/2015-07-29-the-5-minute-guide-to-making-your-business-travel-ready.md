@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Summer is a great time for travel – from family vacations to extended weekend road trips, there is something about the warmer temps that inspires wanderlust. hile you and your employees are planning time away from the office, it might be the perfect time to get your business travel-ready as well.<!--more-->
+Summer is a great time for travel – from family vacations to extended weekend road trips, there is something about the warmer temps that inspires wanderlust. hile you and your employees are planning time away from the office, it might be the perfect time to get your business travel-ready as well.
 
 Moving some of your solutions to the cloud can help make your business more portable. With files and infrastructure available anytime from anywhere, employees can access their office even when they’re not behind a desk.
 

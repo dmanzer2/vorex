@@ -14,7 +14,7 @@ tags:
 
 As a service-based business owner, you rely on accurate hours tracking to either charge your clients directly or maintain a precise picture of how to scope out projects. This is the main reason why staying on top of invoicing clients accurately is vital.
 
-But from sending email reminders out to all team members to submit weekly timesheets and tallying those numbers up, to inputting the final numbers in QuickBooks, it’s a major time drain.<!--more-->
+But from sending email reminders out to all team members to submit weekly timesheets and tallying those numbers up, to inputting the final numbers in QuickBooks, it’s a major time drain.
 
 Not to mention, when there isn’t a uniform or standardized way to track time, many people rely on pen and paper to track time throughout the day. Or worse, they wait until the end of the day and do their best to guess how long they spent working on different projects.
 

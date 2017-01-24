@@ -11,7 +11,7 @@ tags:
 ---
 With the boxes, the achy backs, adjusting to a new environment and the extreme excess bubble wrap, no one ever _really_ likes moving day.
 
-But when it&#8217;s because of 50 percent employee growth and rapid company expansion, moving day gives us cause for a little &#8211; okay, MAJOR &#8211; celebration!<!--more-->
+But when it&#8217;s because of 50 percent employee growth and rapid company expansion, moving day gives us cause for a little &#8211; okay, MAJOR &#8211; celebration!
 
 Today, in partnership with the <a href="https://www.dallaschamber.org/" target="_blank">Dallas Regional Chamber</a>, Vorex is hosting a ribbon-cutting to mark the opening of our new company headquarters. With all the change and growth we&#8217;ve experienced during the past few years, our old office was forcing us to get to know one another a bit too well. This upgraded 6,000 square-foot space boasts a modern open floor plan and will serve as Vorex global headquarters to accommodate our rapid growth, boost collaboration and innovation and better support our global customer base.
 

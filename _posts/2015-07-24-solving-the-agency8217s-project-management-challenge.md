@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Company growth is always a good thing. But it’s inevitably accompanied by growing pains. Scale too rapidly, and your tools and methodologies struggle to grow with you. Likewise, your teams can be buried in projects as you hire new talent to keep up with the growing workload.<!--more-->
+Company growth is always a good thing. But it’s inevitably accompanied by growing pains. Scale too rapidly, and your tools and methodologies struggle to grow with you. Likewise, your teams can be buried in projects as you hire new talent to keep up with the growing workload.
 
 Among the growing pains many agencies face as they scale is a project management [challenge](http://www.vorex.com/4-challenges-service-based-businesses-face-when-trying-to-scale/). They’ll reach a point where email and the widely adopted collaboration tools (e.g., Basecamp, Trello, etc.) reveal themselves as inadequate when leveraged at scale.
 

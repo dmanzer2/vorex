@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Running a small- or medium-sized business (SMB) comes with the jumbo-sized responsibility of juggling multiple administrative responsibilities, projects and timelines. And with small businesses making up [99.7% of U.S. employers](https://www.sba.gov/sites/default/files/FAQ_Sept_2012.pdf), it comes as no surprise that most American business owners are overwhelmed by the sheer amount of work required to run their businesses efficiently.<!--more-->
+Running a small- or medium-sized business (SMB) comes with the jumbo-sized responsibility of juggling multiple administrative responsibilities, projects and timelines. And with small businesses making up [99.7% of U.S. employers](https://www.sba.gov/sites/default/files/FAQ_Sept_2012.pdf), it comes as no surprise that most American business owners are overwhelmed by the sheer amount of work required to run their businesses efficiently.
 
 Unfortunately, without the right systems in place, leading your team to success can mean frustrating days, late nights, and working on the weekends. So how do successful business owners manage it all without working their lives away?
 

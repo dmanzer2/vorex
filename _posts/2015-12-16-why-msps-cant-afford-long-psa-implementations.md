@@ -11,7 +11,7 @@ tags:
 ---
 
 
-In the world of managed service providers (MSPs), there is a delicate balance between speed and service, especially when it comes to professional service automation (PSA) implementation. Most customers want their systems up and running yesterday, and they expect everything to run smoothly right out of the gate.<!--more-->
+In the world of managed service providers (MSPs), there is a delicate balance between speed and service, especially when it comes to professional service automation (PSA) implementation. Most customers want their systems up and running yesterday, and they expect everything to run smoothly right out of the gate.
 
 ![project management software](https://media.giphy.com/media/xTiTnIoxDuucRQ6Lwk/giphy.gif){: .aligncenter}
 

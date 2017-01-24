@@ -13,7 +13,7 @@ tags:
 
 Choosing an enterprise resource planning (ERP) system for your organization can be a big decision. For starters, transitioning from an ad hoc system of resource planning and allocation to [one centralized company-wide system](http://www.vorex.com/supercharging-business-insights-with-online-project-management-erp/) is bound to come with a learning curve. Plus, there are costs to consider and complexity of implementation.
 
-Choosing the right ERP solution can have a major impact on how smooth your transition is. The system you choose will also have a major bearing on how quickly you’ll be able to reap the benefit of an organized, centralized ERP.<!--more-->
+Choosing the right ERP solution can have a major impact on how smooth your transition is. The system you choose will also have a major bearing on how quickly you’ll be able to reap the benefit of an organized, centralized ERP.
 
 You might be asking: with all the options available today, how can I tell if the ERP solution I’m considering will be a good fit for my company? While there are [some great guides out there](http://www.cio.com/article/2458889/enterprise-resource-planning/9-tips-for-selecting-and-implementing-an-erp-system.html) on the web, we’ve distilled that information into one quick, easy-to-digest list of key considerations.
 

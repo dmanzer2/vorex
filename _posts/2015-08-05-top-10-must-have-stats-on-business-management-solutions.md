@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Effective business management is all about making informed decisions and relying on insights gleaned from data in order to stay ahead of the curve. Determining what data is important and which doesn’t factor into the equation plays a major part in finding success.<!--more-->
+Effective business management is all about making informed decisions and relying on insights gleaned from data in order to stay ahead of the curve. Determining what data is important and which doesn’t factor into the equation plays a major part in finding success.
 
 Here we’ve compiled 10 statistics related to business management solutions that could change your perspective on how you and your organization approach the work you do.
 

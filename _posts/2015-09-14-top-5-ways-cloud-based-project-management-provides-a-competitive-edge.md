@@ -12,7 +12,7 @@ tags:
 ---
 
 
-For years, consumers and businesses have been [relying more and more on cloud-based software solutions.](http://www.gartner.com/newsroom/id/2581315) The latest trend in cloud integration sees businesses using the technology not just for data storage, but also for [implementing cloud-based project management (PM) solutions.](http://technologyadvice.com/project-management/blog/benefits-cloud-based-project-management-software/)<!--more-->
+For years, consumers and businesses have been [relying more and more on cloud-based software solutions.](http://www.gartner.com/newsroom/id/2581315) The latest trend in cloud integration sees businesses using the technology not just for data storage, but also for [implementing cloud-based project management (PM) solutions.](http://technologyadvice.com/project-management/blog/benefits-cloud-based-project-management-software/)
 
 For businesses utilizing cloud-based PM, the advantages are clear: increasing productivity, enabling remote access and lowering costs. Sounds pretty good right? We thought so. With that in mind, here is a handy guide to the top five ways cloud-based PM can give your company an edge over the competition.
 

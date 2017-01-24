@@ -13,7 +13,7 @@ tags:
 
 
 We’ve always been a company with a global vision. With international investors and executive leadership, it’s long been a focus of ours to help small to medium-sized businesses (SMBs), both domestically and abroad, optimize operations, improve profitability and achieve growth.
-<!--more-->
+
 
 Inline with our mission, we’re excited to announce the release of multi-currency capability in our online business management software. This new feature will support more than 100 currencies and enable international companies to easily bill and complete financial transactions in their native currency directly within our platform.
 

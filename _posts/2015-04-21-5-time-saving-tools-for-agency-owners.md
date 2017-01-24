@@ -13,7 +13,7 @@ tags:
 
 You show up to work and the office phone rings. Your cell phone is constantly buzzing with beeps and notifications, and when you open your email, it’s flooded with a seemingly never-ending stream of new messages.
 
-Flipping to your calendar is no better because your entire day is booked back-to-back with internal and client-facing meetings. Not to mention, the end of the month is approaching which means it’s time to calculate expenses, bill clients and pay out employees.<!--more-->
+Flipping to your calendar is no better because your entire day is booked back-to-back with internal and client-facing meetings. Not to mention, the end of the month is approaching which means it’s time to calculate expenses, bill clients and pay out employees.
 
 Running a service-based agency is hard work, which is why most successful agency owners rely on time-saving tools to streamline day-to-day processes and stay organized.
 

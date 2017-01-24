@@ -14,7 +14,7 @@ tags:
 
 When it comes to business- and work-related idioms, few of them truly relate to reality. “Keeping one’s nose to the grindstone,” for instance, is commonly understood as undertaking work with great focus. A grindstone, however, has nothing to do with it.
 
-By the same token, “burning the candle at both ends” commonly refers to working at all hours. These days, though, leaving the lights on will do just fine, thank you very much.<!--more-->
+By the same token, “burning the candle at both ends” commonly refers to working at all hours. These days, though, leaving the lights on will do just fine, thank you very much.
 
 That being said, keeping one’s eye on the “big picture” has never seemed a more apropos bit of managerial advice. With the rise of online project management, [enterprise resource planning (ERP)](http://www.vorex.com/product/resource-allocation/) and dashboards that enable you to visually track everything your organization is up to, examining the big picture isn’t just a metaphor; it’s become a literal necessity.
 

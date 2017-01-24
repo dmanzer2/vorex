@@ -12,7 +12,7 @@ tags:
 ---
 
 
-The art and science of business management is always shifting. If you look, you can find a new method, tactic or advice published everyday on thousands of business-focused sites on the web. It can be overwhelming to keep up with it all.<!--more-->
+The art and science of business management is always shifting. If you look, you can find a new method, tactic or advice published everyday on thousands of business-focused sites on the web. It can be overwhelming to keep up with it all.
 
 But consider yourself lucky! We’ve done the legwork for you, putting together a list of four of the biggest business management trends to keep your eye on. Read on for the top ways to ensure your company stays ahead fo the competition!
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Being a small business owner is tough work, and yet, small businesses are the backbone of America. In fact, at least [60% of employment opportunities](http://www.sbecouncil.org/about-us/facts-and-data/) in the U.S. come from small businesses. That could be why we have an entire week out of the year dedicated to celebrating them!<!--more-->
+Being a small business owner is tough work, and yet, small businesses are the backbone of America. In fact, at least [60% of employment opportunities](http://www.sbecouncil.org/about-us/facts-and-data/) in the U.S. come from small businesses. That could be why we have an entire week out of the year dedicated to celebrating them!
 
 Each year the U.S. Small Business Administration (SBA) pays homage to small business owners across America and the contributions they make in our personal lives as well as our economy. This year, [Small Business Week](https://www.sba.gov/nsbw/nsbw) spreads the positive message of entrepreneurialism with the tagline to “Dream Big, Start Small.”
 

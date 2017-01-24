@@ -12,7 +12,7 @@ tags:
 ---
 
 
-The benefits of using a [professional services automation (PSA)](http://www.vorex.com/how-a-good-psa-user-interface-ui-impacts-your-success/) solution to streamline invoicing and billing, service desk ticketing, payroll and client relations are undeniable. From [improving billable utilization by five to 10 percent](http://spiresearch.com/downloads/whitepapers/evaluating-psa-white-paper.pdf) to the fact that [more than 50 percent of cloud solution providers](http://www.channelinsider.com/blogs/cloud-computing/taking-psa-and-rmm-into-the-cloud.html/) use some form of PSA, its industry bonafides are well-established. <!--more-->
+The benefits of using a [professional services automation (PSA)](http://www.vorex.com/how-a-good-psa-user-interface-ui-impacts-your-success/) solution to streamline invoicing and billing, service desk ticketing, payroll and client relations are undeniable. From [improving billable utilization by five to 10 percent](http://spiresearch.com/downloads/whitepapers/evaluating-psa-white-paper.pdf) to the fact that [more than 50 percent of cloud solution providers](http://www.channelinsider.com/blogs/cloud-computing/taking-psa-and-rmm-into-the-cloud.html/) use some form of PSA, its industry bonafides are well-established. 
 
 But how does all that increased efficiency impact customer service interactions? And more importantly, what does it mean for your bottom line?
 

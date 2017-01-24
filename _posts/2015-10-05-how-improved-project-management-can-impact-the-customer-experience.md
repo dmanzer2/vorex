@@ -14,7 +14,7 @@ tags:
 
 If customer service surveys, anecdotes and data are correct, [customer experience](http://www.forbes.com/sites/rogerdooley/2015/07/02/customer-experience/) (CX) has emerged as the new King of the Business World. According to Lou Carbone, the man who first coined the term *customer experience*, “What branding was to the 20th century, experience management will be to the 21st.”
 
-To any business looking to distance itself from its competitors, then, CX is paramount.<!--more-->
+To any business looking to distance itself from its competitors, then, CX is paramount.
 
 But there is often a disconnect between the experience a company *believes* it’s giving its customers and [the one it is actually providing](https://econsultancy.com/blog/66326-brands-think-they-provide-great-customer-experience-consumers-disagree/). Don’t let customer experience become one more facet of management that’s either off the mark or allowed to slip through the cracks.
 

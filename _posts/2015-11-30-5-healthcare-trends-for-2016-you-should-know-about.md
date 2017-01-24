@@ -13,7 +13,7 @@ tags:
 
 
 With the new year on the the horizon, experts in the [healthcare industry](http://www.vorex.com/top-5-best-practices-for-project-and-resource-management-in-healthcare-orgs/) have more on their minds than cold and flu season. Healthcare is often known for making necessary shifts and adjustments in a slow-moving manner.
-<!--more-->
+
 
 ![project management software](https://media.giphy.com/media/1KJPg114jm68U/giphy.gif){: .aligncenter}
 

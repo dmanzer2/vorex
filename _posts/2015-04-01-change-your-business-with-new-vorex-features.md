@@ -11,8 +11,6 @@ tags:
 ---
 At Vorex, our development team never sleeps. We&#8217;re continually refining our solution to deliver the absolute best online PSA and project management features to help busy business owners streamline day-to-day operations.
 
-<!--more-->
-
 Earlier this week, we released even more functions designed to empower your business. In addition to your [favorite Vorex features](http://www.vorex.com/product/) like invoicing, billing, service desk and ticketing and time tracking, our cloud-based solution now also includes:
 
   * **Enhanced Native CRM** - New dashboards for better visibility into your clients, opportunities and sales pipeline, plus one-click conversion of opportunities into projects and contracts and a new quotation module that enables you to create and email quotes from within the CRM module. We&#8217;ve also added several new reports for prospects and clients.

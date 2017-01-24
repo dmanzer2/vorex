@@ -11,7 +11,7 @@ tags:
 ---
 
 
-It’s one of the most important lessons in life, one you probably learned in kindergarten: Play nice with others. And nowhere is this lesson more relevant than when considering a robust professional services automation (PSA) platform designed to streamline your business and operations.<!--more-->
+It’s one of the most important lessons in life, one you probably learned in kindergarten: Play nice with others. And nowhere is this lesson more relevant than when considering a robust professional services automation (PSA) platform designed to streamline your business and operations.
 
 Organizations these days are faced with [needing to do more with less](https://diginomica.com/2015/12/02/why-modern-service-businesses-must-unite-services-sales-and-hr/#.VmiJVt-rSRs), and automation is the key. And while a robust PSA platform on its own can bring [much needed efficiency](http://www.mspbusinessmanagement.com/blog/does-my-msp-need-psa-tool), integrations with other business tools your organization is already using, such as a [remote monitoring and management (RMM)](http://www.continuum.net/solutions/rmm-software/remote-monitoring-and-management) tool like the [Continuum RMM](http://www.vorex.com/navigate-2015-vorex-and-continuum-integrate-for-better-business-workflows-and-customer-service/), can help visualize and manage all aspects of your company’s projects.
 

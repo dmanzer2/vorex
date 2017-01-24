@@ -12,7 +12,7 @@ tags:
 ---
 
 
-When managing your company projects, there are several factors you have to balance to achieve success – overvaluing any single aspect can throw your entire team askew. Your best competitors embrace the discipline of balance. Asking yourself, “What’s their secret?” can lead to methods and techniques you can learn from your competitors to make your company projects more successful.<!--more-->
+When managing your company projects, there are several factors you have to balance to achieve success – overvaluing any single aspect can throw your entire team askew. Your best competitors embrace the discipline of balance. Asking yourself, “What’s their secret?” can lead to methods and techniques you can learn from your competitors to make your company projects more successful.
 
 1. **Unified Information**
 

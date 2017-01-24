@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Many service-based businesses rely on the concept of the “billable hour” to calculate a rate for their services. While often associated with the legal profession, the billable hour can be a great fit for all kinds of professional services organizations (PSOs) and agencies. Let’s take a look back at the origins of this concept and how it comes into play in the contemporary business landscape.<!--more-->
+Many service-based businesses rely on the concept of the “billable hour” to calculate a rate for their services. While often associated with the legal profession, the billable hour can be a great fit for all kinds of professional services organizations (PSOs) and agencies. Let’s take a look back at the origins of this concept and how it comes into play in the contemporary business landscape.
 
 **The Billable Hour – The Key to Increased Income**
 

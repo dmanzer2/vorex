@@ -12,7 +12,7 @@ tags:
 ---
 
 
-You don’t have to go much farther than your kitchen to realize that daily life is markedly different than it was even 10 years ago. From [a refrigerator’s ability to update an electronic grocery list](http://www.wired.com/2014/11/the-internet-of-things-bigger/) on its owner’s behalf to a supply chain that might include more than 12 countries, the world is growing increasingly more complex.<!--more-->
+You don’t have to go much farther than your kitchen to realize that daily life is markedly different than it was even 10 years ago. From [a refrigerator’s ability to update an electronic grocery list](http://www.wired.com/2014/11/the-internet-of-things-bigger/) on its owner’s behalf to a supply chain that might include more than 12 countries, the world is growing increasingly more complex.
 
 Global connectedness and [the illumination that connectedness provides](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?language=en) are definite pluses of the ongoing technological revolution. Managing them, however–especially in facilities management (FM) and construction–can be anything but simple.
 

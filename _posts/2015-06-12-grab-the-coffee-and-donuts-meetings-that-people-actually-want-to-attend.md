@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Meeting with a client face-to-face is one of the best ways to determine how to meet their needs…in theory. Unfortunately, we all know what it’s like to be on an hour-and-a-half conference call that could’ve been summed up in a two sentence email. Or to attend a meeting that ends up being all about planning another meeting.<!--more-->
+Meeting with a client face-to-face is one of the best ways to determine how to meet their needs…in theory. Unfortunately, we all know what it’s like to be on an hour-and-a-half conference call that could’ve been summed up in a two sentence email. Or to attend a meeting that ends up being all about planning another meeting.
 
 So how do you make sure that your meetings serve the needs of both you and your clients? Here are four goals to always keep in mind.
 

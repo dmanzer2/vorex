@@ -13,7 +13,6 @@ tags:
 
 
 Diligence, hard work and determination are characteristics that many employers consider valuable. But a strong will isn’t enough to be considered an excellent employee, CEO, manager or even a valuable team member. To complete your work daily while still having time to take account of the “bigger picture” and make strategic decisions, working intelligently is necessary.
-<!--more-->
 
 Smart decision making relies on knowing what items need your attention *now* and which ones can be prioritized for later. In addition, finding ways to automate routine tasks and create efficient workflows will free up more time for strategizing and bigger picture thinking that can lead to more impressive results. Free up some time for the big picture stuff by streamlining these work-related processes.
 

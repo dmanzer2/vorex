@@ -14,7 +14,7 @@ tags:
 
 When Boston finally finished its now legendary traffic rerouting project, [the Big Dig](https://www.massdot.state.ma.us/highway/TheBigDig/FactsFigures.aspx), it came NINE years after its deadline and cost millions more than its original estimate.
 
-President Obama’s signature achievement, the Affordable Care Act, was riddled with massive technological problems before and after its rollout. A [VA Hospital](http://www.npr.org/2015/06/09/413178870/the-unfinished-va-hospital-thats-more-than-1-billion-over-budget) under construction in Denver is $1 billion over budget, and *it still isn’t finished.*<!--more-->
+President Obama’s signature achievement, the Affordable Care Act, was riddled with massive technological problems before and after its rollout. A [VA Hospital](http://www.npr.org/2015/06/09/413178870/the-unfinished-va-hospital-thats-more-than-1-billion-over-budget) under construction in Denver is $1 billion over budget, and *it still isn’t finished.*
 
 ![ERP](https://media.giphy.com/media/MRynV7pNzABfq/giphy.gif)
 

@@ -13,7 +13,7 @@ tags:
 
 Professional service automation (PSA) software has revolutionized the day-to-day operations of many organizations. PSAs enable professionals to better leverage technology to tackle the kind of day-to-day tasks that would normally require spending hours with your head buried in a spreadsheet, freeing you up to do more important things like drumming up new business and assisting your existing clients.
 
-Whether it’s tracking time spent with clients, or managing your resource allocation for future projects, PSA software has changed the game. Let’s take a look at seven features that should consider when shopping for PSA software.<!--more-->
+Whether it’s tracking time spent with clients, or managing your resource allocation for future projects, PSA software has changed the game. Let’s take a look at seven features that should consider when shopping for PSA software.
 
 ### 1. Usability
 

@@ -15,7 +15,7 @@ tags:
 Ever feel like your business is in danger of being left behind by the times? Like the guy who’s still wearing bell-bottoms while everyone else has moved on to skinny jeans, are you still [manually tracking data and projects with spreadsheets](http://www.vorex.com/step-away-from-the-spreadsheets-how-diy-business-tracking-is-a-business-fail/), and updating information in multiple docs saved in different files?
 
 Maybe the time has come for you to ‘get with it.’
-<!--more-->
+
 
 Not everyone can or should pull off jeans that look two sizes too small, but by investing in a well-designed project management platform, you can move your business forward by reclaiming time that would’ve been previously wasted on duplicate efforts, fixing errors and manually tracking data.
 

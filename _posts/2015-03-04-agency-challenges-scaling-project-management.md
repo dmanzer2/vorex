@@ -13,8 +13,6 @@ _This post was written by Leah Nurik, President of Gabriel Marketing Group. It f
 
 We&#8217;ve been lucky at Gabriel Marketing Group (GMG). We&#8217;ve grown quickly and steadily, year over year. To be clear, I don&#8217;t say that to brag about our success &#8211; a lack of humility is a sure fire &#8220;jinx&#8221; in my worldview, where superstition and dread are often far too present for idleness or over confidence. Instead, I say it to let you know that although we have grown significantly and quickly, the road to today has not always been a rose-lined Easy Street. Scaling a growing professional services organization is, well, frankly, super, duper flipping hard. And, I know we are not the only ones facing that challenge.
 
-<!--more-->
-
 Scale challenges aren&#8217;t unique to agencies, of course. We are a technology marketing company specializing in start-ups and high-growth B2B software companies. Our clients grow fast, and, often, get acquired. Knowing that is our sweet spot, we see companies that struggle to scale effectively and successfully all the time. And, if they can do it all while actually making money, they&#8217;ve attained the Holy Grail. However, our clients, for the most part, are product companies, and that is very different than the agency model.
 
 Primarily, most &#8211; if not all-agencies derive the majority of revenue from fulfilling service contracts, whether those contracts are based on hours or scope, project or retainer. Agencies need real, live talented people to fulfill contracts. And, in the GMG world, we need really, awesome, incredibly smart, fun, creative and dedicated people to do it right and keep clients coming back for more. (Looking for a job? We&#8217;re hiring!)

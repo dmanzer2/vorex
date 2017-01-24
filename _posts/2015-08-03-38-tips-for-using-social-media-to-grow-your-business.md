@@ -12,7 +12,7 @@ tags:
 ---
 
 
-While we normally tout the benefits of streamlined business management processes and the value of a [great tool to manage day-to-day operations](http://www.vorex.com/product/) in this space, we wanted to take some time to address other factors that can dramatically impact company growth.<!--more-->
+While we normally tout the benefits of streamlined business management processes and the value of a [great tool to manage day-to-day operations](http://www.vorex.com/product/) in this space, we wanted to take some time to address other factors that can dramatically impact company growth.
 
 Social media is to business what high-quality compost is to gardening: When you add it to your overall efforts, [it can really improve your growth](https://www.marketingtechblog.com/2014-statistics-trends-businesses-social-media/). Having a presence on [Twitter](http://www.twitter.com), [Facebook](http://www.facebook.com), [LinkedIn](http://www.linkedin.com) and [YouTube](http://www.youtube.com), among other channels, enables you to interact more often with potential customers and influencers and expand your company’s reach.
 

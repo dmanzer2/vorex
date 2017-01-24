@@ -12,7 +12,6 @@ tags:
 
 
 Nearly every business has a need to increase their operational efficiency. Through the use of effective software, companies streamline many tasks that previously required an entire department.
-<!--more-->
 
 Efficient processes increase productivity and collaboration, establish values through prioritization, optimize resource allocation, and free up company leaders to spend time growing the business rather than managing day-to-day operations.
 
