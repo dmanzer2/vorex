@@ -7,6 +7,7 @@ permalink: /blog/navigate-2015-vorex-and-continuum-integrate-for-better-business
 blog_image_path: /assets/img/blogs-resources/workflow.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/3-Ways-to-Keep-Your-Team-Organized-
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

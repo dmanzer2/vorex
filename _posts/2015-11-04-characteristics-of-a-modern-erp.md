@@ -7,6 +7,7 @@ permalink: /blog/characteristics-of-a-modern-erp/
 blog_image_path: /assets/img/blogs-resources/modern.erp_.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

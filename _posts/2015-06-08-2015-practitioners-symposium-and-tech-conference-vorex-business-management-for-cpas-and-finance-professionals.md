@@ -8,6 +8,7 @@ permalink: /blog/2015-practitioners-symposium-and-tech-conference-vorex-business
 blog_image_path: /assets/img/blogs-resources/iStock_000003281204_Large.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

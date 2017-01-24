@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/online.project.management.jpg
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

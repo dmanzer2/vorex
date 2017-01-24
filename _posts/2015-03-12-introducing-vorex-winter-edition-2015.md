@@ -7,6 +7,7 @@ permalink: /blog/introducing-vorex-winter-edition-2015/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_71509271.jpg
 categories:
   - Blog
+tags:  
 ---
 Daylight Saving Time brings with it the promise of spring, warmer temps and longer days. And this year, it has delivered Vorex Winter Edition 2015!
 

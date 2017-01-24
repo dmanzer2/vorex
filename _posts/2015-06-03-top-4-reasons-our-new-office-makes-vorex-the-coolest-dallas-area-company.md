@@ -7,6 +7,7 @@ permalink: /blog/top-4-reasons-our-new-office-makes-vorex-the-coolest-dallas-are
 blog_image_path:
 categories:
   - Blog
+tags:  
 ---
 With the boxes, the achy backs, adjusting to a new environment and the extreme excess bubble wrap, no one ever _really_ likes moving day.
 

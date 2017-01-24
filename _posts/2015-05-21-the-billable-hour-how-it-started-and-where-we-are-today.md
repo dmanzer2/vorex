@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_81387066.jpg
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

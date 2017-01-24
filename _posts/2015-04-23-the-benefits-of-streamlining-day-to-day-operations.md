@@ -7,6 +7,7 @@ permalink: /blog/the-benefits-of-streamlining-day-to-day-operations/
 blog_image_path: /assets/img/blogs-resources/benefits-of-streamlining-operations.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

@@ -7,6 +7,7 @@ permalink: /blog/agency-challenges-scaling-project-management/
 blog_image_path: /assets/img/blogs-resources/project-management-scale.jpg
 categories:
   - Blog
+tags:
 ---
 _This post was written by Leah Nurik, President of Gabriel Marketing Group. It first appeared on the [Gabriel Marketing Group](http://www.gabrielmarketing.com/2015/03/growing-agencys-biggest-challenge-scaling-project-management/) website._
 

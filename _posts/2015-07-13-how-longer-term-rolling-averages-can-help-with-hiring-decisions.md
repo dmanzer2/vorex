@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/resource-allocation-and-hiring.jpg
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

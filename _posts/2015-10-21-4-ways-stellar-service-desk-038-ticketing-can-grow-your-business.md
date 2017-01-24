@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/stellar.service.desk_.jpg
 categories:
   - Blog
   - Project Management
+  tags:
 ---
 
 

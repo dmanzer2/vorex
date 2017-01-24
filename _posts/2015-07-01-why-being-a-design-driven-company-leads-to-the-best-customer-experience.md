@@ -7,6 +7,7 @@ permalink: /blog/why-being-a-design-driven-company-leads-to-the-best-customer-ex
 blog_image_path: /assets/img/blogs-resources/Vorex-project-management-software.jpg
 categories:
   - Blog
+tags:  
 ---
 
 
