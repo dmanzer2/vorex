@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/project-management-software-5.jpg
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

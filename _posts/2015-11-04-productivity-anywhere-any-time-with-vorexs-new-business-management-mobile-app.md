@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/touch-screen-mobile-phone_M1S1BcBd.
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

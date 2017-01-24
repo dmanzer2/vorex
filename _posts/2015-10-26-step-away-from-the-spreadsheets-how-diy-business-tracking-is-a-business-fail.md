@@ -7,6 +7,7 @@ permalink: /blog/step-away-from-the-spreadsheets-how-diy-business-tracking-is-a-
 blog_image_path: /assets/img/blogs-resources/project-management-software-4.jpg
 categories:
   - Blog
+tags:
 ---
 
 

@@ -7,6 +7,7 @@ permalink: /blog/vote-now-vorex-is-nominated-for-the-the-sleeter-group-awesome-a
 blog_image_path: /assets/img/blogs-resources/Screen-Shot-2015-07-21.png
 categories:
   - Blog
+tags:  
 ---
 
 

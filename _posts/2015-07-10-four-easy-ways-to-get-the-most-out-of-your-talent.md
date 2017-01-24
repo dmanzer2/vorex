@@ -7,6 +7,7 @@ permalink: /blog/four-easy-ways-to-get-the-most-out-of-your-talent/
 blog_image_path: /assets/img/blogs-resources/getting-most-out-of-talent.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

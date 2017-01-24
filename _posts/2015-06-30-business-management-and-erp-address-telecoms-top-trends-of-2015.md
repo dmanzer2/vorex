@@ -7,6 +7,7 @@ permalink: /blog/business-management-and-erp-address-telecoms-top-trends-of-2015
 blog_image_path: /assets/img/blogs-resources/header_telecom.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

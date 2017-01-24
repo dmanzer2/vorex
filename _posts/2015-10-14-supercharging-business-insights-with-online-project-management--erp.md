@@ -7,6 +7,7 @@ permalink: /blog/supercharging-business-insights-with-online-project-management-
 blog_image_path: /assets/img/blogs-resources/supercharge.business.practice.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

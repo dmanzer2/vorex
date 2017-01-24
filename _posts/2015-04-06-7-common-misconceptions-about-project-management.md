@@ -7,6 +7,7 @@ permalink: /blog/7-common-misconceptions-about-project-management/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_80200268.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

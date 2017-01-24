@@ -7,6 +7,7 @@ permalink: /blog/effective-psas-7-must-have-features/
 blog_image_path: /assets/img/blogs-resources/PSA.software.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

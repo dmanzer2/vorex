@@ -7,6 +7,7 @@ permalink: /blog/9-quick-tips-about-gaining-visibility-into-your-teams-efficienc
 blog_image_path: /assets/img/blogs-resources/Visibility-Team-Efficiency.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

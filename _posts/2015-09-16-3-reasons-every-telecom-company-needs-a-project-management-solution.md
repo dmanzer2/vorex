@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/telecom-project-management-solution
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

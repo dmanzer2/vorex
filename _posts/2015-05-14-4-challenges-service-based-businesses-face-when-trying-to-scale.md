@@ -7,6 +7,7 @@ permalink: /blog/4-challenges-service-based-businesses-face-when-trying-to-scale
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_31360654-copy.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

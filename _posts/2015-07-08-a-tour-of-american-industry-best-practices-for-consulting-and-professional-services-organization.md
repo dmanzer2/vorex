@@ -7,6 +7,7 @@ permalink: /blog/a-tour-of-american-industry-best-practices-for-consulting-and-p
 blog_image_path: /assets/img/blogs-resources/PSO-solution.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

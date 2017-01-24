@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/cloud-based-project-management-2.jp
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

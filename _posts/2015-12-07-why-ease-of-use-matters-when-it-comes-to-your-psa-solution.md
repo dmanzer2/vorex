@@ -9,6 +9,7 @@ blog_image_path: /assets/img/blogs-resources/ease.of_.use_.jpg
 categories:
   - Blog
   - Project Management
+tags:
 ---
 
 

@@ -8,6 +8,7 @@ blog_image_path: /assets/img/blogs-resources/business-management-solution.jpg
 categories:
   - Blog
   - Project Management
+tags:  
 ---
 
 

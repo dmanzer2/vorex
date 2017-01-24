@@ -7,6 +7,7 @@ permalink: /blog/can-business-management-software-prevent-failure/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_76305793.jpg
 categories:
   - Blog
+tags:
 ---
 
 

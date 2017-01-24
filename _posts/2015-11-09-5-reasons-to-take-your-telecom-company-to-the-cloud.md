@@ -7,6 +7,7 @@ permalink: /blog/5-reasons-to-take-your-telecom-company-to-the-cloud/
 blog_image_path: /assets/img/blogs-resources/telecom.cloud_.jpg
 categories:
   - Blog
+tags:  
 ---
 
 

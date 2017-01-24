@@ -7,6 +7,7 @@ permalink: /blog/i-choose-you-selecting-the-best-erp-for-your-organization/
 blog_image_path: /assets/img/blogs-resources/BEST.ERP_.jpg
 categories:
   - Blog
+tags:
 ---
 
 
