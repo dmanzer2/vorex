@@ -31,7 +31,7 @@ keywords: test1, test2, etc
 desc: sample description
 avatar: ''
 profile:
-  name: David Manzer
+  name: Vorex by Kaseya
   email:
   facebook: your-fb-id
   github:
@@ -53,7 +53,7 @@ exclude:
   - node_modules
   - Gruntfile.js
   - package.json
-created-by: Kaseya
+created-by: Kaseya Digital Marketing Team
 creator-url:
   exclude:
     - node_modules
