@@ -11,7 +11,7 @@ tags:
 ---
 
 
-We have a special affinity for the telecom industry. Our product was born from a desire to solve the business management and enterprise resource planning (ERP) needs among telecom companies. Just today, we announced [general availability](http://www.vorex.com/media/vorex-launches-erp-and-business-management-solution-for-telecom-companies-improving-operations-and-efficiency-on-one-single-platform/) of our project-centric ERP solution that addresses the complete lifecycle of the telecom industry.<!--more-->
+We have a special affinity for the telecom industry. Our product was born from a desire to solve the business management and enterprise resource planning (ERP) needs among telecom companies. Just today, we announced [general availability](http://www.vorex.com/media/vorex-launches-erp-and-business-management-solution-for-telecom-companies-improving-operations-and-efficiency-on-one-single-platform/) of our project-centric ERP solution that addresses the complete lifecycle of the telecom industry.
 
 [![Telecommunications tower against blue sky](http://www.vorex.com/wp-content/uploads/2015/06/Dollarphotoclub_71044100-1024x683.jpg){: .alignnone.size-large.wp-image-1195}](http://www.vorex.com/wp-content/uploads/2015/06/Dollarphotoclub_71044100.jpg)
 

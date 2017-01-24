@@ -14,7 +14,7 @@ tags:
 
 Raise your hand if you just love dealing with the monthly invoicing. Yeah, thought so.
 
-Until we get to a world in where we’re paying for everything with life credits and Justin Timberlake is a poor hustler on the run from the authorities (what, didn’t anyone see [that movie?](http://www.imdb.com/title/tt1637688/)), businesses need to track time, track resources and deal with invoicing.<!--more-->
+Until we get to a world in where we’re paying for everything with life credits and Justin Timberlake is a poor hustler on the run from the authorities (what, didn’t anyone see [that movie?](http://www.imdb.com/title/tt1637688/)), businesses need to track time, track resources and deal with invoicing.
 
 ![project management software](https://media.giphy.com/media/KSbUl3jEcw57W/giphy.gif){: .aligncenter}
 

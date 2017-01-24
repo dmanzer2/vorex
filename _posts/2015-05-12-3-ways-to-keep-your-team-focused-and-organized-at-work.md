@@ -15,7 +15,6 @@ tags:
 Modern life has delivered technologies that make both our work and personal lives much easier. However, the same innovations that were created to increase our productivity can end up distracting us and leading to inefficient work habits.
 
 In fact, digital distraction is such a common problem that a [recent study](http://www.careerbuilder.com/jobposter/resources/page.aspx?template=none&amp;sc_cmp2=JP_Infographic_productivity2014&amp;pagever=productivity2014) conducted by Careerbuilder tells us that 24% of workers spend at least one hour each day on personal calls, emails or texts. (You’re not the only one with this growing problem of distraction!)
-<!--more-->
 
 But don’t give up just yet! Here are three ways to motivate your team and help avoid distractions, remain focused, stay organized and — ultimately — work more efficiently.
 

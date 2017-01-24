@@ -12,7 +12,7 @@ tags:
 ---
 
 
-In life as well as business, incomplete truths can be just as damaging as out-and-out falsehoods. With big data and analytics expanding and fueling [how work gets done](http://www.wsj.com/articles/data-is-the-new-middle-manager-1429478017), “seeing” that data is just as important as having it.<!--more-->
+In life as well as business, incomplete truths can be just as damaging as out-and-out falsehoods. With big data and analytics expanding and fueling [how work gets done](http://www.wsj.com/articles/data-is-the-new-middle-manager-1429478017), “seeing” that data is just as important as having it.
 
 Major companies like [UPS spend more than $1 billion](https://datafloq.com/read/ups-spends-1-billion-big-data-annually/273) a year gathering, analyzing and applying big data. The better their visibility into those vast storehouses of information, the greater their rewards.
 

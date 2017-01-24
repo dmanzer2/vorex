@@ -11,7 +11,7 @@ tags:
 ---
 
 
-A well-run restaurant provides an excellent model of efficiency for day-to-day operations. Have you ever considered how busy restaurants are able to combine hundreds of individual ingredients into a variety of finished dishes while meeting tight deadlines throughout a single meal service?<!--more-->
+A well-run restaurant provides an excellent model of efficiency for day-to-day operations. Have you ever considered how busy restaurants are able to combine hundreds of individual ingredients into a variety of finished dishes while meeting tight deadlines throughout a single meal service?
 
 The secret lies in a culinary arts technique known as *mise en place,* a system of standardized organization and preparation that drives the entire process. Kitchens are highly regimented work spaces where responsibilities and skills are divided among the smallest possible number of employees necessary to operate the system.
 

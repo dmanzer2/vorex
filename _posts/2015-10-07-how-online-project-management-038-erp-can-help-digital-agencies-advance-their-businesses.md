@@ -14,7 +14,7 @@ tags:
 
 One of the biggest challenges facing up-and-coming digital agencies is how to grow their businesses as smoothly as possible.This can often involve trying to balance [scaling up to attract bigger clients](http://www.docurated.com/all-things-productivity/33-ad-agency-experts-reveal-single-biggest-mistakes-challenges-ad-agencies-face-scale) with tracking existing accounts without creating big inefficiencies along the way.
 
-The project-based nature of marketing keeps managers focused on what they need in the current moment to stay on track. But it can make looking ahead and predicting what will be necessary to grow and sustain that growth over time difficult.<!--more-->
+The project-based nature of marketing keeps managers focused on what they need in the current moment to stay on track. But it can make looking ahead and predicting what will be necessary to grow and sustain that growth over time difficult.
 
 ![business management solution](https://media.giphy.com/media/wWsbUPjrDS4dG/giphy.gif)
 

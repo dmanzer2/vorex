@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Almost all employees have an opinion about project management, and more often than not, it is an unfavorable view. On its own, project management is not an activity that’s directly tied to revenue, making it easy to form misconceptions about the role of project management, especially when its aims are not clearly communicated to team members.<!--more-->
+Almost all employees have an opinion about project management, and more often than not, it is an unfavorable view. On its own, project management is not an activity that’s directly tied to revenue, making it easy to form misconceptions about the role of project management, especially when its aims are not clearly communicated to team members.
 
 Let’s take a look at some of the misconceptions surrounding project management. Though our list is long, don’t be discouraged – there’s a solution! One of the best ways to debunk misconceptions like these is to have a [centralized communication system](http://www.vorex.com/) that keeps all team members apprised of project aims and developments.
 

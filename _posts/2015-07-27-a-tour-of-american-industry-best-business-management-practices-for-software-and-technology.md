@@ -12,7 +12,7 @@ tags:
 ---
 
 
-The worlds of software and technology continue to advance and evolve at an impressive rate as modern life becomes more integrated with technology. Think about how often you use your smartphone on a daily basis. Or how widespread the [Internet of Things (IoT)](http://www.wired.com/2014/11/the-internet-of-things-bigger/) and connected devices is becoming. Software and technology are booming industries.<!--more-->
+The worlds of software and technology continue to advance and evolve at an impressive rate as modern life becomes more integrated with technology. Think about how often you use your smartphone on a daily basis. Or how widespread the [Internet of Things (IoT)](http://www.wired.com/2014/11/the-internet-of-things-bigger/) and connected devices is becoming. Software and technology are booming industries.
 
 To stay competitive in this [increasingly complex and high-tech environment](https://hbr.org/1997/05/technology-integration-turning-great-research-into-great-products), software and tech companies need every advantage they can get. While the need for vision, research, resources and discipline is clear, these organizations also need to be run effectively, otherwise no 21st century business–regardless of its industry –can survive.
 

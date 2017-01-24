@@ -14,7 +14,7 @@ tags:
 
 In an agency setting, project management can often feel like a jumble of workflows, documentation, affected parties and missed deadlines.
 
-And without a strategy and an easy-to-use[project management solution](http://www.vorex.com/product/online-project-management/), projects can begin to look like the staircases at Hogwarts School of Witchcraft and Wizardry–changing at a moment’s notice with little time to react or adjust, and not always leading to the desired location.<!--more-->
+And without a strategy and an easy-to-use[project management solution](http://www.vorex.com/product/online-project-management/), projects can begin to look like the staircases at Hogwarts School of Witchcraft and Wizardry–changing at a moment’s notice with little time to react or adjust, and not always leading to the desired location.
 
 ![project management](https://media.giphy.com/media/sG6OMoGquxffa/giphy.gif)
 

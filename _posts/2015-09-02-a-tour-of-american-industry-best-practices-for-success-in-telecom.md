@@ -15,7 +15,7 @@ tags:
 Telecom is one of the most robust, diverse and essential industries in the world. In 2014, [it generated more than $9 billion in revenue](http://www.inc.com/ss/will-yakowicz/10-best-industries-on-2014-inc-5000.html) in the United States alone.
 
 But it’s the ways in which telecom’s services, hardware and software have affected everything from [healthcare](http://www.mckinsey.com/insights/health_systems_and_services/healthcares_digital_future) to [home automation](http://www.csimagazine.com/whitepapers/ArthurDLittle/130119-ADL_Smart%20Home_article.pdf) that reveal its ever-expanding importance. Now, telecom is an indispensable ingredient in just about every aspect of our lives.
-<!--more-->
+
 
 As recently as 25-30 years ago, telecom meant one thing: telephone services. With the proliferation of the Internet, however, that basic assumption has forever changed. Today, telecom involves a complex array of communication processes and mediums: cell phones, satellites, radio, WiFi, television, fiber optics and myriad other communication paths.
 

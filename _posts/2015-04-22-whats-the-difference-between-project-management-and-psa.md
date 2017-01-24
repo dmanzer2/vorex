@@ -11,7 +11,7 @@ tags:
 ---
 
 
-We’re often tasked with explaining the difference between project management and professional services automation (PSA) when it comes to our business management solution. While each aspect serves a unique purpose and has a highly distinct audience, they both deliver the same benefits to small to mid-sized businesses (SMBs)- streamlined operations, improved business insights, increased productivity within the organization and, most importantly, increased profitability.<!--more-->
+We’re often tasked with explaining the difference between project management and professional services automation (PSA) when it comes to our business management solution. While each aspect serves a unique purpose and has a highly distinct audience, they both deliver the same benefits to small to mid-sized businesses (SMBs)- streamlined operations, improved business insights, increased productivity within the organization and, most importantly, increased profitability.
 
 **The Benefits of Project Management**
 

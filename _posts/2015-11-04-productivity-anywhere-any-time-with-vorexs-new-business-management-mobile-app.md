@@ -15,7 +15,7 @@ tags:
 Here at Vorex we believe in the convenience and [productivity that comes from being able to access your work and essential business information anywhere](http://www.inc.com/minda-zetlin/76-percent-of-employees-are-more-productive-when-they-leave-the-office.html) and any time. We have always enabled our users to do this with Vorex’s cloud-based platform, but now we’re kicking things up a notch with a new mobile app!
 
 Aptly named Vorex Disconnected, this app gives users the ability to access the Vorex business management platform from any device no matter where they are, even if they’re offline.
-<!--more-->
+
 
 With this new powerful and intuitive app, users can now track their time and expenses, manage help desk tickets and streamline their business operations even if they’re outside the office or without Wi-Fi access.
 

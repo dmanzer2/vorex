@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Everyone knows that careful expense tracking is the key to better understanding and managing your business–even [Oprah](http://www.oprah.com/money/Track-Your-Spending) is getting in on the action. There are a lot of different systems out there for keeping spending records organized, from old-fashioned pen and paper to smartphone apps and software platforms.<!--more-->
+Everyone knows that careful expense tracking is the key to better understanding and managing your business–even [Oprah](http://www.oprah.com/money/Track-Your-Spending) is getting in on the action. There are a lot of different systems out there for keeping spending records organized, from old-fashioned pen and paper to smartphone apps and software platforms.
 
 In 1494, Luca Pacioli formally introduced the modern system of double-entry bookkeeping in his seminal book [*Summa di Arithmetica*](http://en.wikipedia.org/wiki/Summa_de_arithmetica). Known as the godfather of modern accounting, Pacioli took great pains to explain the importance of knowing both your credits and debits in order to effectively manage your finances.
 

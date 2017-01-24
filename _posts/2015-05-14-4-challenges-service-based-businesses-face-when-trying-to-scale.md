@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Service businesses often start small with a few talented and disciplined individuals working together around the clock. As the organization grows, leaders experience a slew of obstacles that can sabotage the organization’s chances of success.<!--more-->
+Service businesses often start small with a few talented and disciplined individuals working together around the clock. As the organization grows, leaders experience a slew of obstacles that can sabotage the organization’s chances of success.
 
 Whether it’s changing management needs, figuring out how to maintain high-quality work or carrying on the vision of the organization as the team grows, implementing the right strategies when trying to scale is one of the greatest obstacles small organizations face.
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Have you caught wind of the [exciting news](http://www.vorex.com/media/vorex-and-continuum-launch-platform-integration-to-streamline-ticketing-and-workflows-for-increased-time-savings-and-productivity/) yet? This morning, we announced that the Vorex platform is now officially integrated with [Continuum’s remote monitoring and management (RMM) tool](http://www.continuum.net/solutions) to help managed service providers (MSPs) run their businesses more smoothly and serve their customers better.<!--more-->
+Have you caught wind of the [exciting news](http://www.vorex.com/media/vorex-and-continuum-launch-platform-integration-to-streamline-ticketing-and-workflows-for-increased-time-savings-and-productivity/) yet? This morning, we announced that the Vorex platform is now officially integrated with [Continuum’s remote monitoring and management (RMM) tool](http://www.continuum.net/solutions) to help managed service providers (MSPs) run their businesses more smoothly and serve their customers better.
 
 This new integration is cloud-based, easy to activate and provides seamless ticket and workflow synchronization across the two platforms. We’re all about making your life easier and more streamlined, and now MSPs have all the tools they need for better ticketing and improved customer service in *one* consolidated location.
 

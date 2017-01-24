@@ -14,7 +14,7 @@ tags:
 
 Working in today’s digital age is changing the way companies store, organize, and transmit information. And while the days of filing cabinets and manila folders are not completely over, keeping your digital workspace organized has never been more important.
 
-Here are three reasons businesses are adopting cloud-based business solutions to keep their digital workspaces in order.<!--more-->
+Here are three reasons businesses are adopting cloud-based business solutions to keep their digital workspaces in order.
 
 1. **Remote Access**
 

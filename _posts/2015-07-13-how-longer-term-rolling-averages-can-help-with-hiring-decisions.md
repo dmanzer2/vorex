@@ -14,7 +14,7 @@ tags:
 
 Many agency owners operate in a project-based environment, which brings with it certain challenges for every part of their business, including hiring.
 
-Project-based work is not only difficult to forecast, it also makes the agency owner focus on the “now,” constricting strategic thinking and planning and replacing it with tactical, day-to-day execution.<!--more-->
+Project-based work is not only difficult to forecast, it also makes the agency owner focus on the “now,” constricting strategic thinking and planning and replacing it with tactical, day-to-day execution.
 
 Project-based agencies also remain beholden to the natural ebb and flow of overall revenue and profitability, as it fluctuates significantly from month-to-month.
 

@@ -14,7 +14,7 @@ tags:
 
 ***by Bonnie Harris, founder, Wax Marketing, Inc.***
 
-One more sign pointing to the convergence of IT and marketing is there are increasingly more communications professionals interested in project management training or even Project Manager Development Program (PMDP) certification. It’s no secret that integrated marketing involves a level of detail beyond most traditional campaigns. Multiple messaging channels, diverse audiences and the need for real-time engagement and an enhanced customer experience all contribute to a greater need for project management skills. <!--more-->
+One more sign pointing to the convergence of IT and marketing is there are increasingly more communications professionals interested in project management training or even Project Manager Development Program (PMDP) certification. It’s no secret that integrated marketing involves a level of detail beyond most traditional campaigns. Multiple messaging channels, diverse audiences and the need for real-time engagement and an enhanced customer experience all contribute to a greater need for project management skills. 
 
 Running a successful integrated marketing communications (IMC) project requires sophisticated planning, and implementation mechanisms are challenging, and time-consuming, to create manually. Learning and adopting a strong online project management tool into an integrated communications practice can be the difference between a good marketing campaign and a great one.
 

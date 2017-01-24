@@ -13,7 +13,7 @@ tags:
 
 It’s a brave new DIY world out there, where you can do anything from knitting a festive scarf to [building a backyard roller coaster](http://www.wired.co.uk/magazine/archive/2014/11/how-to/how-to-build-a-backyard-roller-coaster) with a quick Google search and an easy list of instructions.
 
-Entrepreneurs and small businesses seem to naturally take this self-starter attitude to heart, with business owners and employees often wearing several hats and picking up new skills as their companies grow.<!--more-->
+Entrepreneurs and small businesses seem to naturally take this self-starter attitude to heart, with business owners and employees often wearing several hats and picking up new skills as their companies grow.
 
 So it makes sense that when approaching business tracking, many companies choose to take advantage of readily available tools like Google Apps or Microsoft Office to hack project management, time tracking and accounting solutions.
 

@@ -12,7 +12,7 @@ tags:
 ---
 
 
-It’s a sobering statistic: In the U.S., more than 80 percent of [new businesses fail](http://www.vorex.com/can-business-management-software-prevent-failure/) in the first 18 months. Unfortunately, most of these organizations are small businesses, many of which are focused on providing professional services like marketing, advertising and digital services.<!--more-->
+It’s a sobering statistic: In the U.S., more than 80 percent of [new businesses fail](http://www.vorex.com/can-business-management-software-prevent-failure/) in the first 18 months. Unfortunately, most of these organizations are small businesses, many of which are focused on providing professional services like marketing, advertising and digital services.
 
 Of the 770,000 professional services organizations (PSOs) in the U.S., 15 percent reported no growth last year, while 10 percent reported a net loss. That’s not good for *anyone’s* business.
 

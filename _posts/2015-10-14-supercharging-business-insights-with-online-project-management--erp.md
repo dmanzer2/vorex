@@ -13,7 +13,7 @@ tags:
 
 You’ve got a meeting coming up at 10am, and last night you got an email from your direct supervisor apologetically informing you that the meeting is also going to have to cover the latest project you’ve helped get off the ground.
 
-The problem is that it took you the entire morning yesterday — combing through [pages and pages of dry spreadsheets](http://www.forbes.com/sites/timworstall/2013/02/13/microsofts-excel-might-be-the-most-dangerous-software-on-the-planet/) — to pull together the data you needed just to cover the meeting’s original subject, and you spent the entire afternoon crunching the numbers, picking out the data that best indicates the trends you’re interested in tracking and transforming the results into easy-to-read charts and graphs.<!--more-->
+The problem is that it took you the entire morning yesterday — combing through [pages and pages of dry spreadsheets](http://www.forbes.com/sites/timworstall/2013/02/13/microsofts-excel-might-be-the-most-dangerous-software-on-the-planet/) — to pull together the data you needed just to cover the meeting’s original subject, and you spent the entire afternoon crunching the numbers, picking out the data that best indicates the trends you’re interested in tracking and transforming the results into easy-to-read charts and graphs.
 
 You’ve only got one option — to start pouring over the new projects spreadsheets after dinner, and head into the office early tomorrow to create your reports. There’s nothing else you can do.
 

@@ -13,7 +13,7 @@ tags:
 ---
 
 
-The holidays are upon us, and you’re making that list and checking it twice, don’t forget to pick up a gift that can win you points with your business associates: a software solution that integrates project management (PM) and professional services automation (PSA).<!--more-->
+The holidays are upon us, and you’re making that list and checking it twice, don’t forget to pick up a gift that can win you points with your business associates: a software solution that integrates project management (PM) and professional services automation (PSA).
 
 How thoughtful of you, right? However, we’ve all been on the receiving end of a well-intentioned gift that wasn’t quite what we needed or wanted. And the same can go for PSA solutions that end up being way too complicated to use, and thus end up providing little to no value.
 

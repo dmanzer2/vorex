@@ -12,7 +12,7 @@ tags:
 ---
 
 
-For many healthcare organizations, staying on top of projects and resources has almost begun to rival brain surgery in terms of complexity.<!--more-->
+For many healthcare organizations, staying on top of projects and resources has almost begun to rival brain surgery in terms of complexity.
 
 ![project management software](https://media.giphy.com/media/ByTXInkbCJ0Vq/giphy.gif){: .aligncenter}
 

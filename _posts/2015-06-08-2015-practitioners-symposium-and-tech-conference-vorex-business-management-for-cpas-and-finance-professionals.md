@@ -12,7 +12,7 @@ tags:
 ---
 
 
-We know Certified Public Accountants (CPAs) are a seriously overworked group of professionals. Being in a service-oriented industry is never easy, [but CPAs face extra challenges](http://www.cpapracticeadvisor.com/news/12055950/what-are-the-biggest-accounting-challenges-small-businesses-face) including dealing with complex and highly sensitive data and the need for real-time insight into operations to maximize profitability.<!--more-->
+We know Certified Public Accountants (CPAs) are a seriously overworked group of professionals. Being in a service-oriented industry is never easy, [but CPAs face extra challenges](http://www.cpapracticeadvisor.com/news/12055950/what-are-the-biggest-accounting-challenges-small-businesses-face) including dealing with complex and highly sensitive data and the need for real-time insight into operations to maximize profitability.
 
 Luckily, there’s a simple and affordable solution specifically tailored to CPAs and small to mid-sized businesses (SMBs) – Vorex’s business management and professional services automation (PSA) platform. Today, Vorex is sponsoring and exhibiting at the [2015 Practitioners Symposium and TECH+ Conference](http://www.aicpaconferencematerials.com/techpractitioners/?select=conference&amp;conferenceID=13), which unites three leading organizations in the accounting industry. Vorex will be showcasing and demoing its multi-purpose platform at booth 211 to show CPAs and financial industry professionals how a well-designed business management platform can change their business, their life and their world.
 

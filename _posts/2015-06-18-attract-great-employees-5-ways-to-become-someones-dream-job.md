@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Attracting top talent is key for any company, but it’s a prime consideration for smaller teams to help differentiate you in the marketplace. So how can the little guy stand out to these superstar candidates?<!--more-->
+Attracting top talent is key for any company, but it’s a prime consideration for smaller teams to help differentiate you in the marketplace. So how can the little guy stand out to these superstar candidates?
 
 When you’re up against bigger companies that can offer higher salaries and robust benefit packages to secure highly qualified candidates, it’s important to build up the perks and bonuses that come along with working for your business.
 

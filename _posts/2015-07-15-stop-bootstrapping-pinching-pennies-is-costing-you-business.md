@@ -12,7 +12,7 @@ tags:
 ---
 
 
-There’s nothing quite like the pride you get from tackling a project on your own. And the savings of DIY-ing can certainly be alluring to anyone trying to save a few bucks. That being said, it’s important to recognize when investing a bit more money upfront can actually save time and money in the long run.<!--more-->
+There’s nothing quite like the pride you get from tackling a project on your own. And the savings of DIY-ing can certainly be alluring to anyone trying to save a few bucks. That being said, it’s important to recognize when investing a bit more money upfront can actually save time and money in the long run.
 
 One area where business owners often neglect to invest resources is in project management software. It may seem like things are running “just fine” without a software to track the tasks associated with each project. But [research shows](http://blog.capterra.com/surprising-project-management-statistics/) that organizations benefit big time from the assistance of a formal project management solution.
 

@@ -15,7 +15,7 @@ There’s a famous quote out there that all businesses should learn and remember
 
 “You know what works? Let’s make sure we use as many different solutions as possible.”
 
-- No boss ever.<!--more-->
+- No boss ever.
 
 In today’s business world, data and functionality cross from department to department, from the sales team to human resources to manufacturing. Why would anyone want to have a different solution for every department and every project?
 

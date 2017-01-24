@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Owning and managing a [professional services organization (PSO)](http://www.vorex.com/industries/consulting-professional-services/) is both rewarding and challenging. Long hours and demanding work environments, when coupled with juggling various clients, managing multiple projects on different timelines and attempting to capture and invoice for every single billable hour, often becomes too much for business leaders to manage effectively.<!--more-->
+Owning and managing a [professional services organization (PSO)](http://www.vorex.com/industries/consulting-professional-services/) is both rewarding and challenging. Long hours and demanding work environments, when coupled with juggling various clients, managing multiple projects on different timelines and attempting to capture and invoice for every single billable hour, often becomes too much for business leaders to manage effectively.
 
 According to the [2112 Group](http://the2112group.com/research/), 15% of PSOs reported no growth or reduced revenue, while 10% actually reported a net loss, in 2013. Those numbers are an indication of a business spiraling out of control.
 

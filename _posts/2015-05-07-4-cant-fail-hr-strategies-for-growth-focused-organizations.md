@@ -12,7 +12,7 @@ tags:
 ---
 
 
-With today’s project management platforms, HR teams can keep tabs on their hiring pipeline, candidate notes during the interview process, and current team members’ productivity levels — all vital to-do’s for today’s growth-focused organizations.<!--more-->
+With today’s project management platforms, HR teams can keep tabs on their hiring pipeline, candidate notes during the interview process, and current team members’ productivity levels — all vital to-do’s for today’s growth-focused organizations.
 
 While every business is different, a few human resources (HR) principles remain constant: hire great talent, keep employees motivated, always be recruiting and give the smart people you hire the chance to show you why you hired them in the first place!
 

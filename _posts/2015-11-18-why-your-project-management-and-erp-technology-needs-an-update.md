@@ -14,7 +14,7 @@ tags:
 
 Please, sit down. We need to talk.
 
-This is an intervention. Your friends and I have been discussing it, and while we think you’re great… Well… You really need to update your [project management and ERP solution](http://www.vorex.com/supercharging-business-insights-with-online-project-management-erp/). <!--more-->
+This is an intervention. Your friends and I have been discussing it, and while we think you’re great… Well… You really need to update your [project management and ERP solution](http://www.vorex.com/supercharging-business-insights-with-online-project-management-erp/). 
 
 Seriously though, it’s getting a little embarrassing watching you struggle with your old ad hoc resource planning and allocation systems. Seeing your employees fall back on [notebooks, disorganized spreadsheets and software](http://www.erpsoftwareblog.com/2012/02/old-erp-new-erp-the-age-of-your-erp-can-alter-your-bottom-line/) that doesn’t play nice with your [centralized, company-wide systems](http://www.vorex.com/supercharging-business-insights-with-online-project-management-erp/) just bums us out–and frankly, it’s costing you money.
 

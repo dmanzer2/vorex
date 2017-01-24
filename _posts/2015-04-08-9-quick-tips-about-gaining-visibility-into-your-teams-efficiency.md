@@ -10,8 +10,7 @@ categories:
 tags:  
 ---
 
-
-When managing your team, one key to success is efficiency. Wasted time and a lack of overall productivity not only cost the company money, but can also slow down projects and cause friction within your team. Here are nine tips to help you successfully track and measure your team’s efficiency.<!--more-->
+When managing your team, one key to success is efficiency. Wasted time and a lack of overall productivity not only cost the company money, but can also slow down projects and cause friction within your team. Here are nine tips to help you successfully track and measure your team’s efficiency.
 
 1. **How Much Work Is Being Completed?**
 

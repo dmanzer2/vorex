@@ -14,7 +14,7 @@ tags:
 
 The hallmarks of a good PR and marketing agency are the same as they were before the Internet invaded our every waking moment: Good storytelling, compelling imagery and creativity are still vital tools of the trade.
 
-As the Internet becomes [increasingly central](http://www.statista.com/chart/1971/electronic-media-use/) to life, however, marketers and PR firms have had to shift gears. *Selling* is out. *Sharing* is in. Today’s best agencies emphasize making connections between their clients, their clients’ customers and the media–social and otherwise.<!--more-->
+As the Internet becomes [increasingly central](http://www.statista.com/chart/1971/electronic-media-use/) to life, however, marketers and PR firms have had to shift gears. *Selling* is out. *Sharing* is in. Today’s best agencies emphasize making connections between their clients, their clients’ customers and the media–social and otherwise.
 
 **Happiness as a Solution**
 

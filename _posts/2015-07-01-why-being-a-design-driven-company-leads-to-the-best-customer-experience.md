@@ -15,7 +15,7 @@ tags:
 
 \*\*
 
-After many years working with large, resource-rich corporations such as Bank of America and Sprint, [Vorex founder and CEO Michael Salem](http://www.vorex.com/about/) identified a way he could bring some of those enterprise-level resources to the small to mid-sized business (SMB).<!--more-->
+After many years working with large, resource-rich corporations such as Bank of America and Sprint, [Vorex founder and CEO Michael Salem](http://www.vorex.com/about/) identified a way he could bring some of those enterprise-level resources to the small to mid-sized business (SMB).
 
 In 2007, Salem left a job as the assistant vice president of Bank of America’s Dallas office to start developing Vorex. He had 20 years of experience at large companies like Bank of America and Sprint, where having the right resources to complete the job generally wasn’t a problem.
 

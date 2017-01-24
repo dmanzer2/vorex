@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Pack up the pumpkins, dust off the holiday decorations, and stick a fork in that bird, it’s done–2015, that is. Sure, we still have a few more weeks before we officially wrap up the year, but that doesn’t mean we can’t start looking ahead to some of the emerging marketing trends we can expect in 2016.<!--more-->
+Pack up the pumpkins, dust off the holiday decorations, and stick a fork in that bird, it’s done–2015, that is. Sure, we still have a few more weeks before we officially wrap up the year, but that doesn’t mean we can’t start looking ahead to some of the emerging marketing trends we can expect in 2016.
 
 ### 1. Mobile and App Marketing
 

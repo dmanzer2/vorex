@@ -11,8 +11,6 @@ tags:
 ---
 Daylight Saving Time brings with it the promise of spring, warmer temps and longer days. And this year, it has delivered Vorex Winter Edition 2015!
 
-<!--more-->
-
 Winter Edition 2015 is the biggest release since launching our service desk offerings in December 2014. The latest product release is designed to help users of our online professional services automation (PSA) and project management solution get even more out of their day.
 
 Did you know that 46 percent of small business leaders spend more than a third of their day on operational tasks like project management, billing and invoicing instead of strategy, sales and new product development? With Vorex Winter Edition, the time spent on business operations and effectively managing day-to-day operations is dramatically reduced, enabling you to move your business forward &#8211; and get out and enjoy life.

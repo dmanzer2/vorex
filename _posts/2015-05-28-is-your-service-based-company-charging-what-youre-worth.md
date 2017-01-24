@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Determining the best way to charge for your company’s services is a challenge that many professional services organizations (PSOs) face — and unfortunately, there is no right answer. Welcome to the age-old debate that more than [28 million small businesses in the US](https://www.sba.gov/sites/default/files/advocacy/SB%20Profiles%202014-15_0.pdf) have to grapple with!<!--more-->
+Determining the best way to charge for your company’s services is a challenge that many professional services organizations (PSOs) face — and unfortunately, there is no right answer. Welcome to the age-old debate that more than [28 million small businesses in the US](https://www.sba.gov/sites/default/files/advocacy/SB%20Profiles%202014-15_0.pdf) have to grapple with!
 
 The two most common pricing structures service-based business owners consider are hourly and project-based. Let’s dive into the details of both pricing structures so you can weigh your options and assess whether you’re company is charging what you’re worth!
 
