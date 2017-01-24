@@ -12,7 +12,6 @@ tags:
 
 
 SMBs are critical to the U.S. economy. Small businesses represent approximately half the private sector, and medium-sized businesses represent roughly one third, according to the Small Business Administration.
-<!--more-->
 
 Ensuring that SMBs succeed can be an uphill battle. They face a unique set of challenges that can often be overcome through sound business practices bolstered by business management tools. Here are three common reasons SMBs fail and how a great business management platform can help.
 
