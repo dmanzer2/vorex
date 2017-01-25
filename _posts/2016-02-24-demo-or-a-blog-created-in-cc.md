@@ -1,13 +1,15 @@
 ---
-title: Can Business Management Software Prevent Failure?
-date: 2015-02-27 19:42:00
-author: Vorex
+title: demo or a blog created in CC
+date: 2016-02-24 19:42:00
+author: Tester
 layout: posts
-permalink: /blog/:title/
-blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_76305793.jpg
+permalink: '/blog/:title/'
+blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_66915998.jpg
 categories:
   - Blog
+  - Project Management
 tags:
+  - Multi-currency
 ---
 
 
