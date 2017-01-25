@@ -3,7 +3,7 @@ title: Top 10 Must-Have Stats on Business Management Solutions
 date: 2015-08-05 10:45:00
 author: Vorex
 layout: posts
-permalink: /blog/top-10-must-have-stats-on-business-management-solutions/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/business-management-solutions.jpg
 categories:
   - Blog

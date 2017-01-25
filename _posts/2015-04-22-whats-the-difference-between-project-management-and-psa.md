@@ -3,7 +3,7 @@ title: "What's the Difference Between Project Management and PSA?"
 date: 2015-04-22 03:26:00
 author: Vorex
 layout: posts
-permalink: /blog/whats-the-difference-between-project-management-and-psa/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/cloud-based-project-management.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: Our Top 5 Infographics on Project Management
 date: 2015-08-10 10:41:00
 author: Vorex
 layout: posts
-permalink: /blog/our-top-5-infographics-on-project-management/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Copy-of-Dollarphotoclub_78306451.jpg
 categories:
   - Blog

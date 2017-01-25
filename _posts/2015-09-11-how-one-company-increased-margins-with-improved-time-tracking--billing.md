@@ -3,7 +3,7 @@ title: 'How One Company Increased Margins with Improved Time Tracking & Billing'
 date: 2015-09-11 05:46:00
 author: Vorex
 layout: posts
-permalink: /blog/how-one-company-increased-margins-with-improved-time-tracking-billing/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/time-tracking-software-1.jpg
 categories:
   - Blog

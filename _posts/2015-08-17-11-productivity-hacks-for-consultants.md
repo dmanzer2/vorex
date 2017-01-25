@@ -3,7 +3,7 @@ title: 11 Productivity Hacks for Consultants
 date: 2015-08-17 16:36:00
 author: Vorex
 layout: posts
-permalink: /blog/11-productivity-hacks-for-consultants/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/productivity.hacks_.jpg
 categories:
   - Blog

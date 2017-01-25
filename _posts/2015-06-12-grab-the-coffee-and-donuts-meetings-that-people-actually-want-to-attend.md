@@ -3,7 +3,7 @@ title: 'Grab the Coffee and Donuts: Meetings that People Actually Want To Attend
 date: 2015-06-12 10:30:00
 author: Vorex
 layout: posts
-permalink: /blog/grab-the-coffee-and-donuts-meetings-that-people-actually-want-to-attend/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_70765003.jpg
 categories:
   - Blog

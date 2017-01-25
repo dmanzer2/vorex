@@ -3,7 +3,7 @@ title: Tips for Scaling a Rapidly Growing Business
 date: 2015-04-14 03:31:00
 author: Vorex
 layout: posts
-permalink: /blog/tips-for-scaling-a-rapidly-growing-business/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/scale-2.jpg
 categories:
   - Blog

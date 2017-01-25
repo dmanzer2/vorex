@@ -3,7 +3,7 @@ title: Why Being a Design-driven Company Leads to the Best Customer Experience
 date: 2015-07-01 11:30:00
 author: Vorex
 layout: posts
-permalink: /blog/why-being-a-design-driven-company-leads-to-the-best-customer-experience/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Vorex-project-management-software.jpg
 categories:
   - Blog

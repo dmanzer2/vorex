@@ -3,7 +3,7 @@ title: 'A Tour of American Industry: Best Practices for Facilities Management &#
 date: 2015-07-20 06:29:00
 author: Vorex
 layout: posts
-permalink: /blog/a-tour-of-american-industry-best-practices-for-facilities-management-construction/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-software-3.jpg
 categories:
   - Blog

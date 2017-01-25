@@ -3,7 +3,7 @@ title: 'A Tour of American Industry: Best Practices for Success in Telecom'
 date: 2015-09-02 05:21:00
 author: Vorex
 layout: posts
-permalink: /blog/a-tour-of-american-industry-best-practices-for-success-in-telecom/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_71044100.jpg
 categories:
   - Blog

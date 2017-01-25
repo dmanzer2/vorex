@@ -3,7 +3,7 @@ title: Leveraging Project Management for Effective Company Growth
 date: 2015-04-16 03:58:00
 author: Vorex
 layout: posts
-permalink: /blog/growth-versus-maintenance/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/growth-v-maintenance.jpg
 categories:
   - Blog

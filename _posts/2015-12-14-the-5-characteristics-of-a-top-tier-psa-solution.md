@@ -3,7 +3,7 @@ title: The 5 Characteristics of a Top-tier PSA Solution
 date: 2015-12-14 06:12:00
 author: Vorex
 layout: posts
-permalink: /blog/the-5-characteristics-of-a-top-tier-psa-solution/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/top.tier_.solution.jpg
 categories:
   - Blog
@@ -13,7 +13,7 @@ tags:
 
 Professional services automation (PSA) solutions can deliver unparalleled value to any organization.
 
-Designed to manage time and billing, as well as resource and project management, PSAs give managers time to focus on the projects at hand. That’s why when it comes to keeping [costs in check and improving efficiency](http://searchenterprisewan.techtarget.com/definition/managed-service-provider), small- and medium-sized businesses (SMBs) have good reason to look for the best PSA available. 
+Designed to manage time and billing, as well as resource and project management, PSAs give managers time to focus on the projects at hand. That’s why when it comes to keeping [costs in check and improving efficiency](http://searchenterprisewan.techtarget.com/definition/managed-service-provider), small- and medium-sized businesses (SMBs) have good reason to look for the best PSA available.
 
 “Firms are facing a lot of competitive pressure,” noted Jeff Kaplan, managing director of [Thinkstrategies Inc](http://thinkstrategies.com/)., a consulting firm based in in Wellesley, Mass. “They have to operate more efficiently.”
 

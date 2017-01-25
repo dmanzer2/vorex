@@ -2,9 +2,8 @@
 title: '2015 Practitioners Symposium and TECH+ Conference: Vorex Business Management for CPAs and Finance Professionals'
 date: 2015-06-08 10:29:00
 author: Vorex
-excerpt: 'Being in a service-oriented industry is never easy, but CPAs face extra challenges including dealing with complex and highly sensitive data and the need for real-time insight into operations to maximize profitability.'
 layout: posts
-permalink: /blog/2015-practitioners-symposium-and-tech-conference-vorex-business-management-for-cpas-and-finance-professionals/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/iStock_000003281204_Large.jpg
 categories:
   - Blog

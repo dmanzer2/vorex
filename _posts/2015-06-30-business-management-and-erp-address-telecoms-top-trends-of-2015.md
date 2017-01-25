@@ -3,7 +3,7 @@ title: "Business Management and ERP Address Telecom's Top Trends of 2015"
 date: 2015-06-30 15:25:00
 author: Vorex
 layout: posts
-permalink: /blog/business-management-and-erp-address-telecoms-top-trends-of-2015/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/header_telecom.jpg
 categories:
   - Blog

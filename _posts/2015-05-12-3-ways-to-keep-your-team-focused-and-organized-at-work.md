@@ -3,7 +3,7 @@ title: 3 Ways To Keep Your Team Focused and Organized at Work
 date: 2015-05-12 06:08:00
 author: Vorex
 layout: posts
-permalink: /blog/3-ways-to-keep-your-team-focused-and-organized-at-work/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/3-Ways-to-Keep-Your-Team-Organized-and-Focused-at-Work.jpg
 categories:
   - Blog

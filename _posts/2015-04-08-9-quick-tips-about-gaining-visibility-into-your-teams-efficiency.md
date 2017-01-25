@@ -3,7 +3,7 @@ title: "9 Quick Tips About Gaining Visibility Into Your Team's Efficiency"
 date: 2015-04-08 03:05:00
 author: Vorex
 layout: posts
-permalink: /blog/9-quick-tips-about-gaining-visibility-into-your-teams-efficiency/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Visibility-Team-Efficiency.jpg
 categories:
   - Blog

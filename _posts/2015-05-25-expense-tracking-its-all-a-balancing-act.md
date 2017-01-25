@@ -3,7 +3,7 @@ title: "Expense Tracking: It's All A Balancing Act"
 date: 2015-05-25 05:56:00
 author: Vorex
 layout: posts
-permalink: /blog/expense-tracking-its-all-a-balancing-act/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_66915998.jpg
 categories:
   - Blog

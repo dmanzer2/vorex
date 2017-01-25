@@ -3,7 +3,7 @@ title: The 5-Minute Guide to Making Your Business Travel Ready
 date: 2015-07-29 16:46:00
 author: Vorex
 layout: posts
-permalink: /blog/the-5-minute-guide-to-making-your-business-travel-ready/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-software-5.jpg
 categories:
   - Blog

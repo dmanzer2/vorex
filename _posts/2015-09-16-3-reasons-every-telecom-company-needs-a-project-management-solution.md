@@ -3,7 +3,7 @@ title: 3 Reasons EVERY Telecom Company Needs a Project Management Solution
 date: 2015-09-16 05:19:00
 author: Vorex
 layout: posts
-permalink: /blog/3-reasons-every-telecom-company-needs-a-project-management-solution/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/telecom-project-management-solution.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: "Is Your Service-based Company Charging What You're Worth?"
 date: 2015-05-28 06:16:00
 author: Vorex
 layout: posts
-permalink: /blog/is-your-service-based-company-charging-what-youre-worth/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_82850116.jpg
 categories:
   - Blog

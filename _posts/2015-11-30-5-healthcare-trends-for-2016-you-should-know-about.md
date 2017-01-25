@@ -3,7 +3,7 @@ title: 5 Healthcare Trends for 2016 You Should Know About
 date: 2015-11-30 05:49:00
 author: Vorex
 layout: posts
-permalink: /blog/5-healthcare-trends-for-2016-you-should-know-about/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/healthcare.trends.jpg
 categories:
   - Blog

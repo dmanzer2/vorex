@@ -3,7 +3,7 @@ title: Your Shorthand Guide to Better Resource Allocation
 date: 2015-08-12 11:05:00
 author: Vorex
 layout: posts
-permalink: /blog/your-shorthand-guide-to-better-resource-allocation/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_80200268.jpg
 categories:
   - Blog

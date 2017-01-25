@@ -3,7 +3,7 @@ title: 38 Tips for Using Social Media to Grow Your Business
 date: 2015-08-03 11:38:00
 author: Vorex
 layout: posts
-permalink: /blog/38-tips-for-using-social-media-to-grow-your-business/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/social-media-tips.jpg
 categories:
   - Blog

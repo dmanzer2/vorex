@@ -3,7 +3,7 @@ title: The Top 4 Reasons Why Integrations are Vital for PSA Solutions
 date: 2015-12-11 05:12:00
 author: Vorex
 layout: posts
-permalink: /blog/the-top-4-reasons-why-integrations-are-vital-for-psa-solutions/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/psa.integration.jpg
 categories:
   - Blog

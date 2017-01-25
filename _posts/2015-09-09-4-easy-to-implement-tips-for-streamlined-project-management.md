@@ -3,7 +3,7 @@ title: 4 Easy-to-Implement Tips for Streamlined Project Management
 date: 2015-09-09 05:12:00
 author: Vorex
 layout: posts
-permalink: /blog/4-easy-to-implement-tips-for-streamlined-project-management/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/streamline-project-management.jpg
 categories:
   - Blog

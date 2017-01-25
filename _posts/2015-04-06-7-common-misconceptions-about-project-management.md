@@ -3,7 +3,7 @@ title: 7 Common Misconceptions About Project Management
 date: 2015-04-06 03:48:00
 author: Vorex
 layout: posts
-permalink: /blog/7-common-misconceptions-about-project-management/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_80200268.jpg
 categories:
   - Blog

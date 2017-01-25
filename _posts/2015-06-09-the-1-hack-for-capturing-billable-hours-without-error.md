@@ -3,7 +3,7 @@ title: 'The #1 Hack for Capturing Billable Hours Without Error'
 date: 2015-06-09 05:48:00
 author: Vorex
 layout: posts
-permalink: /blog/the-1-hack-for-capturing-billable-hours-without-error/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_76103401.jpg
 categories:
   - Blog

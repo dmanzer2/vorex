@@ -3,7 +3,7 @@ title: 'Navigate 2015: Vorex and Continuum Integrate for Better Business Workflo
 date: 2015-09-24 13:58:00
 author: Vorex
 layout: posts
-permalink: /blog/navigate-2015-vorex-and-continuum-integrate-for-better-business-workflows-and-customer-service/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/workflow.jpg
 categories:
   - Blog

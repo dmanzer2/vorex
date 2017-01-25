@@ -3,7 +3,7 @@ title: How to Leverage Real-time Visibility for Better Resource Allocation
 date: 2015-08-26 05:45:00
 author: Vorex
 layout: posts
-permalink: /blog/how-to-leverage-real-time-visibility-for-better-resource-allocation/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Resource.Allocation.jpg
 categories:
   - Blog

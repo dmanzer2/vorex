@@ -3,7 +3,7 @@ title: The Benefits of Streamlining Day-to-Day Operations
 date: 2015-04-23 03:15:00
 author: Vorex
 layout: posts
-permalink: /blog/the-benefits-of-streamlining-day-to-day-operations/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/benefits-of-streamlining-operations.jpg
 categories:
   - Blog
