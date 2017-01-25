@@ -3,7 +3,7 @@ title: "Why MSPs Can't Afford Long PSA Implementations"
 date: 2015-12-16 05:26:00
 author: Vorex
 layout: posts
-permalink: /blog/why-msps-cant-afford-long-psa-implementations/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/msp.psa_.jpg
 categories:
   - Blog
