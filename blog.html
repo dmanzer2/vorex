@@ -23,7 +23,7 @@ description: This is the blog home page and its description.
 		          <span class="cat-links"><span class="screen-reader-text">Categories</span><a href="#">Blog</a></span>
 		        </header>
 		        <div class="entry-content">
-		          <a class="post-thumbnail" href="#" aria-hidden="true">
+		          <a class="post-thumbnail" href="{{ site.baseurl }}{{ post.url }}" aria-hidden="true">
 		          <img width="825" height="510" src="{{ site.baseurl }}{{ post.blog_image_path }}" class="attachment-post-thumbnail wp-post-image" alt="{{ post.title }}" /></a>
 		          <p>{{ post.content | strip_html | truncatewords:36 }}</p>
 		          <p><a href="{{ site.baseurl }}{{ post.url }}" class="more-link">Read More <span class="screen-reader-text">{{ post.title }}</span></a></p>
