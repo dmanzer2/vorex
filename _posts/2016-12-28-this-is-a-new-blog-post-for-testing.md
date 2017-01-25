@@ -1,9 +1,9 @@
 ---
-title: This is a new blog post for testing!
-date: 2017-01-25 22:40:00
+title: 'This is a new blog post for testing!'
+date: 2016-12-28 10:40:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: '/blog/:title/'
 blog_image_path: /assets/img/blogs-resources/3-way-free-managed-services-tools.jpg
 categories:
   - Blog
