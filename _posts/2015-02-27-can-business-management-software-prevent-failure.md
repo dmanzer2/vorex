@@ -3,7 +3,7 @@ title: Can Business Management Software Prevent Failure?
 date: 2015-02-27 19:42:00
 author: Vorex
 layout: posts
-permalink: /blog/:title
+permalink: /blog/can-business-management-software-prevent-failure/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_76305793.jpg
 categories:
   - Blog
