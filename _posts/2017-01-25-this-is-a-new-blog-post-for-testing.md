@@ -1,5 +1,5 @@
 ---
-title: This is a new blog post for testing!
+title: "This is a new blog post for testing"
 date: 2017-01-25 22:40:00
 author: David
 layout: posts
