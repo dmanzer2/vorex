@@ -1,0 +1,12 @@
+# top navigation
+- title: "Resources"
+  href: "/resources/"
+
+- title: "Contact"
+  href: "/contact/"
+
+- title: "Login"
+  href: "https://vorexlogin.com/"
+
+- title: "Free Trial"
+  href: "/free-trial/"
