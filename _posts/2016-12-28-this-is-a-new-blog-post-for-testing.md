@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD:_posts/2017-01-25-this-is-a-new-blog-post-for-testing.md
+title: "This is a new blog post for testing"
+date: 2017-01-25 22:40:00
+=======
 title: 'This is a new blog post for testing!'
 date: 2016-12-28 10:40:00
+>>>>>>> master:_posts/2016-12-28-this-is-a-new-blog-post-for-testing.md
 author: David
 layout: posts
 permalink: '/blog/:title/'
