@@ -3,7 +3,7 @@ title: "Attract Great Employees: 5 Ways to Become Someone's Dream Job"
 date: 2015-06-18 06:57:00
 author: Vorex
 layout: posts
-permalink: /blog/attract-great-employees-5-ways-to-become-someones-dream-job/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/attract-great-employees.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: 'Supercharging Business Insights with Online Project Management & ERP'
 date: 2015-10-14 05:33:00
 author: Vorex
 layout: posts
-permalink: /blog/supercharging-business-insights-with-online-project-management-erp/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/supercharge.business.practice.jpg
 categories:
   - Blog

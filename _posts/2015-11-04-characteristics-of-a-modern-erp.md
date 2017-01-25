@@ -3,7 +3,7 @@ title: Characteristics of a Modern ERP
 date: 2015-11-04 05:57:00
 author: Vorex
 layout: posts
-permalink: /blog/characteristics-of-a-modern-erp/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/modern.erp_.jpg
 categories:
   - Blog

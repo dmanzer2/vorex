@@ -3,7 +3,7 @@ title: How a Good PSA User Interface (UI) Impacts Your Success
 date: 2015-11-23 05:12:00
 author: Vorex
 layout: posts
-permalink: /blog/how-a-good-psa-user-interface-ui-impacts-your-success/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/psa.ui_.jpg
 categories:
   - Blog

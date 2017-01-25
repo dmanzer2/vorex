@@ -3,7 +3,7 @@ title: Top 5 Best Practices for Project and Resource Management in Healthcare Or
 date: 2015-11-11 05:56:00
 author: Vorex
 layout: posts
-permalink: /blog/top-5-best-practices-for-project-and-resource-management-in-healthcare-orgs/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/healthcare.orgs_.jpg
 categories:
   - Blog

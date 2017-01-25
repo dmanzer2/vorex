@@ -3,7 +3,7 @@ title: Why Invoicing a Client is a Headache and How to Solve it
 date: 2015-11-02 05:14:00
 author: Vorex
 layout: posts
-permalink: /blog/why-invoicing-a-client-is-a-headache-and-how-to-solve-it/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/invoice.clients.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: 'The Billable Hour: How It Started and Where We Are Today'
 date: 2015-05-21 06:40:00
 author: Vorex
 layout: posts
-permalink: /blog/the-billable-hour-how-it-started-and-where-we-are-today/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_81387066.jpg
 categories:
   - Blog

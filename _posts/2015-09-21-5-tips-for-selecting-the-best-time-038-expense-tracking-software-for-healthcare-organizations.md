@@ -3,7 +3,7 @@ title: '5 Tips for Selecting the BEST Time &#038; Expense Tracking Software for 
 date: 2015-09-21 05:04:00
 author: Vorex
 layout: posts
-permalink: /blog/5-tips-for-selecting-the-best-time-expense-tracking-software-for-healthcare-organizations/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Expense.Tracking.Software.jpg
 categories:
   - Blog

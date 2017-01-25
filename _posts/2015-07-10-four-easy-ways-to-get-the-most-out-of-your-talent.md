@@ -3,7 +3,7 @@ title: Four Easy Ways to Get the Most Out of Your Talent
 date: 2015-07-10 12:28:00
 author: Vorex
 layout: posts
-permalink: /blog/four-easy-ways-to-get-the-most-out-of-your-talent/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/getting-most-out-of-talent.jpg
 categories:
   - Blog

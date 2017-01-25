@@ -3,7 +3,7 @@ title: 3 Reasons Business Managers Should Always Examine the Big Picture
 date: 2015-10-28 05:12:00
 author: Vorex
 layout: posts
-permalink: /blog/3-reasons-business-managers-should-always-examine-the-big-picture/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/business-management-software-3.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: 'Solving The Agency&#8217;s Project Management Challenge'
 date: 2015-07-24 07:42:00
 author: Vorex
 layout: posts
-permalink: /blog/solving-the-agencys-project-management-challenge/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-software-2.jpg
 categories:
   - Blog

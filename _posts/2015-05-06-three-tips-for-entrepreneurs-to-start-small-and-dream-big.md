@@ -4,7 +4,7 @@ date: 2015-05-06 10:20:00
 author: Vorex
 layout: posts
 blog_image_path: /assets/img/blogs-resources/Dream-Big.jpg
-permalink: /blog/three-tips-for-entrepreneurs-to-start-small-and-dream-big/
+permalink: /blog/:title/
 categories:
   - Blog
 tags:

@@ -3,7 +3,7 @@ title: 7 Things You ABSOLUTELY Need from a Business Management Solution
 date: 2015-08-24 07:06:00
 author: Vorex
 layout: posts
-permalink: /blog/7-things-you-absolutely-need-from-a-business-management-solution/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/business-management-solution.jpg
 categories:
   - Blog

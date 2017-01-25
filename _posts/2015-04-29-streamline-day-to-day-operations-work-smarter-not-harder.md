@@ -3,7 +3,7 @@ title: 'Streamline Day-to-Day Operations: Work Smarter, Not Harder'
 date: 2015-04-29 07:40:00
 author: Vorex
 layout: posts
-permalink: /blog/streamline-day-to-day-operations-work-smarter-not-harder/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-software.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: Top 4 Reasons Our New Office Makes Vorex the Coolest Dallas-Area Company
 date: 2015-06-03T09:00:45+00:00
 author: Vorex
 layout: posts
-permalink: /blog/top-4-reasons-our-new-office-makes-vorex-the-coolest-dallas-area-company/
+permalink: /blog/:title/
 blog_image_path:
 categories:
   - Blog

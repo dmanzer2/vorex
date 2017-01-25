@@ -3,7 +3,7 @@ title: How a Good PSA Positively Impacts Customer Service
 date: 2015-12-02 05:51:00
 author: Vorex
 layout: posts
-permalink: /blog/how-a-good-psa-positively-impacts-customer-service/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/psa.customer.service.jpg
 categories:
   - Blog
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-The benefits of using a [professional services automation (PSA)](http://www.vorex.com/how-a-good-psa-user-interface-ui-impacts-your-success/) solution to streamline invoicing and billing, service desk ticketing, payroll and client relations are undeniable. From [improving billable utilization by five to 10 percent](http://spiresearch.com/downloads/whitepapers/evaluating-psa-white-paper.pdf) to the fact that [more than 50 percent of cloud solution providers](http://www.channelinsider.com/blogs/cloud-computing/taking-psa-and-rmm-into-the-cloud.html/) use some form of PSA, its industry bonafides are well-established. 
+The benefits of using a [professional services automation (PSA)](http://www.vorex.com/how-a-good-psa-user-interface-ui-impacts-your-success/) solution to streamline invoicing and billing, service desk ticketing, payroll and client relations are undeniable. From [improving billable utilization by five to 10 percent](http://spiresearch.com/downloads/whitepapers/evaluating-psa-white-paper.pdf) to the fact that [more than 50 percent of cloud solution providers](http://www.channelinsider.com/blogs/cloud-computing/taking-psa-and-rmm-into-the-cloud.html/) use some form of PSA, its industry bonafides are well-established.
 
 But how does all that increased efficiency impact customer service interactions? And more importantly, what does it mean for your bottom line?
 

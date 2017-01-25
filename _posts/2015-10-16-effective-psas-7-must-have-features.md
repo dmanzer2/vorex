@@ -3,7 +3,7 @@ title: 'Effective PSAs: 7 Must-Have Features'
 date: 2015-10-16 05:12:00
 author: Vorex
 layout: posts
-permalink: /blog/effective-psas-7-must-have-features/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/PSA.software.jpg
 categories:
   - Blog

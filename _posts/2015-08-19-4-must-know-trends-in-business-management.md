@@ -3,7 +3,7 @@ title: 4 Must-know Trends in Business Management
 date: 2015-08-19 16:47:00
 author: Vorex
 layout: posts
-permalink: /blog/4-must-know-trends-in-business-management/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/business.management.jpg
 categories:
   - Blog

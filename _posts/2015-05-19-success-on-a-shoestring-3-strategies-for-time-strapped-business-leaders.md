@@ -3,7 +3,7 @@ title: 'Success on a Shoestring: 3 Strategies for Time-strapped Business Leaders
 date: 2015-05-19 07:20:00
 author: Vorex
 layout: posts
-permalink: /blog/success-on-a-shoestring-3-strategies-for-time-strapped-business-leaders/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Success-on-a-Shoestring.jpg
 categories:
   - Blog

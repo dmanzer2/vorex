@@ -3,7 +3,7 @@ title: How Longer-term Rolling Averages Can Help with Hiring Decisions
 date: 2015-07-13 10:31:00
 author: Vorex
 layout: posts
-permalink: /blog/how-longer-term-rolling-averages-can-help-with-hiring-decisions/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/resource-allocation-and-hiring.jpg
 categories:
   - Blog

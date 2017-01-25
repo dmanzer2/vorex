@@ -3,7 +3,7 @@ title: 'Vote Now! Vorex is Nominated for the The Sleeter Group Awesome App Award
 date: 2015-07-21 12:09:00
 author: Vorex
 layout: posts
-permalink: /blog/vote-now-vorex-is-nominated-for-the-the-sleeter-group-awesome-app-award/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Screen-Shot-2015-07-21.png
 categories:
   - Blog
@@ -13,7 +13,7 @@ tags:
 
 &nbsp;
 
-Given that our greatest mission at Vorex is providing the best possible service and product to our customers, you can imagine our excitement at being nominated for [The Sleeter Group’s Awesome App Award](http://www.sleeter.com/awesomeapps). 
+Given that our greatest mission at Vorex is providing the best possible service and product to our customers, you can imagine our excitement at being nominated for [The Sleeter Group’s Awesome App Award](http://www.sleeter.com/awesomeapps).
 
 The Awesome Application Program “recognizes the highest quality software solutions available in the SMB accounting software marketplace,” and as of this morning you can now [cast your votes for Vorex](http://www.sleeter.com/awesomeapps/2016/vorex)!
 

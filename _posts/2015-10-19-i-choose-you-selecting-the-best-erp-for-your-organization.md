@@ -3,7 +3,7 @@ title: 'I Choose You: Selecting the BEST ERP for Your Organization'
 date: 2015-10-19 05:44:00
 author: Vorex
 layout: posts
-permalink: /blog/i-choose-you-selecting-the-best-erp-for-your-organization/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/BEST.ERP_.jpg
 categories:
   - Blog

@@ -3,7 +3,7 @@ title: 5 Time-saving Tools for Agency Owners
 date: 2015-04-21 03:43:00
 author: Vorex
 layout: posts
-permalink: /blog/5-time-saving-tools-for-agency-owners/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Time-Saving-Tools.jpg
 categories:
   - Blog

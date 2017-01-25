@@ -3,7 +3,7 @@ title: 'A Tour of American Industry: Best Business Management Practices for Soft
 date: 2015-07-27 11:54:00
 author: Vorex
 layout: posts
-permalink: /blog/a-tour-of-american-industry-best-business-management-practices-for-software-and-technology/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/best-practices-software-and-technology.jpg
 categories:
   - Blog

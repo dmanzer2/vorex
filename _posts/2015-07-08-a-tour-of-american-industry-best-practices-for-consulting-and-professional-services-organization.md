@@ -3,7 +3,7 @@ title: 'A Tour of American Industry: Best Practices for Consulting and Professio
 date: 2015-07-08 06:38:00
 author: Vorex
 layout: posts
-permalink: /blog/a-tour-of-american-industry-best-practices-for-consulting-and-professional-services-organization/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/PSO-solution.jpg
 categories:
   - Blog

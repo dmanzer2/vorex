@@ -3,7 +3,7 @@ title: 'The #1 Tool Agency Owners Use to Battle The Odds'
 date: 2015-06-22 06:35:00
 author: Vorex
 layout: posts
-permalink: /blog/the-1-tool-agency-owners-use-to-battle-the-odds/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Tool-1.jpg
 categories:
   - Blog

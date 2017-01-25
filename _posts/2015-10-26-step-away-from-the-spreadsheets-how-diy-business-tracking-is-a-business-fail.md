@@ -3,7 +3,7 @@ title: 'Step Away from the Spreadsheets: How DIY Business Tracking Is a Business
 date: 2015-10-26 05:42:00
 author: Vorex
 layout: posts
-permalink: /blog/step-away-from-the-spreadsheets-how-diy-business-tracking-is-a-business-fail/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-software-4.jpg
 categories:
   - Blog

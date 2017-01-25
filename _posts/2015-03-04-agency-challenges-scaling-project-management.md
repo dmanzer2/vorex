@@ -3,7 +3,7 @@ title: 'A Growing Agency&#8217;s Biggest Challenge: Scaling Project Management'
 date: 2015-03-04T14:44:13+00:00
 author: Vorex
 layout: posts
-permalink: /blog/agency-challenges-scaling-project-management/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/project-management-scale.jpg
 categories:
   - Blog

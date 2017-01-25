@@ -3,7 +3,7 @@ title: 5 Reasons to Take Your Telecom Company to the Cloud
 date: 2015-11-09 05:22:00
 author: Vorex
 layout: posts
-permalink: /blog/5-reasons-to-take-your-telecom-company-to-the-cloud/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/telecom.cloud_.jpg
 categories:
   - Blog

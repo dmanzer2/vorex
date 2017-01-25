@@ -3,7 +3,7 @@ title: 'The World is Your Oyster: Vorex Announces New Multi-currency Capability'
 date: 2015-05-13 07:00:00
 author: Vorex
 layout: posts
-permalink: /blog/the-world-is-your-oyster-vorex-announces-new-multi-currency-capability/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/iStock_000046683046_Medium-1.jpg
 categories:
   - Blog

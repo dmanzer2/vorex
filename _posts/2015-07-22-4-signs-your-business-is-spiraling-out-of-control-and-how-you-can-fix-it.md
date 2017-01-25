@@ -3,7 +3,7 @@ title: 4 Signs Your Business is Spiraling Out of Control and How You Can Fix It
 date: 2015-07-22 05:33:00
 author: Vorex
 layout: posts
-permalink: /blog/4-signs-your-business-is-spiraling-out-of-control-and-how-you-can-fix-it/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/spiral.jpg
 categories:
   - Blog

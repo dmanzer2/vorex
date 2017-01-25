@@ -3,7 +3,7 @@ title: "4 Can't Fail HR Strategies for Growth-focused Organizations"
 date: 2015-05-07 07:26:00
 author: Vorex
 layout: posts
-permalink: /blog/4-cant-fail-hr-strategies-for-growth-focused-organizations/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/Dollarphotoclub_74872845-copy.jpg
 categories:
   - Blog

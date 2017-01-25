@@ -3,7 +3,7 @@ title: "Productivity Anywhere, Any Time with Vorex's New Business Management Mob
 date: 2015-11-04 05:01:00
 author: Vorex
 layout: posts
-permalink: /blog/productivity-anywhere-any-time-with-vorexs-new-business-management-mobile-app/
+permalink: /blog/:title/
 blog_image_path: /assets/img/blogs-resources/touch-screen-mobile-phone_M1S1BcBd.jpeg
 categories:
   - Blog
