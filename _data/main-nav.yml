@@ -1,25 +1,14 @@
-# All navigation
-
-# top navigation
-- title: "Home"
-  href: "/"
-
-- title: "Pricing"
+- title: Home
+  href: /
+- title: Pricing
   subcategories:
-    - subtitle: "Canvas"
-      subhref: "/canvas/"
-    - subtitle: "Plexi"
-      subhref: "/plexi/"
-
-- title: "About"
-  href: "/about/"
-
-- title: "Contact"
-  href: "/contact/"
-
-
-# mega navigation
-
-
-
-# footer navigation
+    - subtitle: Canvas
+      subhref: /canvas/
+    - subtitle: Plexi
+      subhref: /plexi/
+- title: About
+  href: /about/
+- title: Contact
+  href: /contact/
+- title: Link
+  href: '#'
