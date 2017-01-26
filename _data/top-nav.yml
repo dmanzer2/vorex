@@ -1,12 +1,8 @@
-# top navigation
-- title: "Resources"
-  href: "/resources/"
-
-- title: "Contact"
-  href: "/contact/"
-
-- title: "Login"
-  href: "/https://vorexlogin.com/Login.aspx?enc=Y6KiJmd6v%2bpIOA1pqPwaKKae7%2bu1rs7EpCd7hRD%2buWM%3d/"
-
-- title: "Free Trial"
-  href: "/free-trial/"
+- title: Resources
+  href: /resources/
+- title: Contact
+  href: /contact/
+- title: Login
+  href: 'https://vorexlogin.com/Login.aspx?enc=Y6KiJmd6v%2bpIOA1pqPwaKKae7%2bu1rs7EpCd7hRD%2buWM%3d/'
+- title: Free Trial
+  href: /free-trial/
