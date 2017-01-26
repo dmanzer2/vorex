@@ -1,5 +1,0 @@
-/*for client text color change*/
-.front-page .one-column.section2 .section-title span:before,
-.front-page .one-column.section2 .section-title span:after {
-	background-color: {{ page.photo_section_text_color_style }};
-}
