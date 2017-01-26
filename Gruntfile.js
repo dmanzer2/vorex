@@ -55,13 +55,34 @@ module.exports = function (grunt) {
                 }
             }
         },
+        cssmin: {
+          minify: {
+            files: [{
+              expand: true,
+              cwd: 'assets/css',
+              src: ['**/*.css', '!**/*.min.css', '**/*.scss'],
+              dest: 'assets/css',
+              ext: '.min.css'
+            }]
+          },
+          options: {
+            shorthandCompacting: false,
+            roundingPrecision: -1
+          },
+          combine: {
+            files: {
+              '_site/assets/css/main.css': ['!_site/assets/css/**/*.min.css', '_site/assets/css/**/*.css']
+            }
+          }
+        }
 
     });
 
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-browser-sync');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.registerTask('build',['shell:jekyllBuild']);
-    grunt.registerTask('default', ['build', 'browserSync', 'watch']);
+    grunt.registerTask('default', ['build', 'browserSync', 'watch', 'cssmin' ]);
     grunt.registerTask('clean',['shell:jekyllClean']);
 };
