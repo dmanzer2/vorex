@@ -62,3 +62,7 @@ styles:
   - default
   - white
   - black
+
+development:
+  asset_url: "http://localhost:3000/assets"
+  app_url: "http://localhost:3000/"
