@@ -11,49 +11,49 @@ module.exports = function (grunt) {
     };
 
     grunt.initConfig({
-        shell: {
-            jekyllClean: {
-                command: 'jekyll clean',
-                options: {
-                    callback: log
-                }
-            },
-            jekyllBuild: {
-                command: 'jekyll build --draft --incremental JEKYLL_ENV=dev',
-                options: {
-                    callback: log
-                }
-            }
+      shell: {
+          jekyllClean: {
+              command: 'jekyll clean',
+              options: {
+                  callback: log
+              }
+          },
+          jekyllBuild: {
+              command: 'jekyll build --draft --incremental JEKYLL_ENV=dev',
+              options: {
+                  callback: log
+              }
+          }
         },
         watch: {
-            posts:{
-                files:[
-                    '_config.yml',
-                    '*.html',
-                    '*.md',
-                    '_layouts/**',
-                    '_posts/**',
-                    '_drafts/**',
-                    '_includes/**',
-                    'assets/**/*.*',
-                    '_sass/**/*.*',
-                    'css/**/*.*'
-                ],
-                tasks: ['shell:jekyllBuild']
-            }
+          posts:{
+              files:[
+                  '_config.yml',
+                  '*.html',
+                  '*.md',
+                  '_layouts/**',
+                  '_posts/**',
+                  '_drafts/**',
+                  '_includes/**',
+                  'assets/**/*.*',
+                  '_sass/**/*.*',
+                  'css/**/*.*'
+              ],
+              tasks: ['shell:jekyllBuild']
+          }
         },
         browserSync: {
-            dev: {
-                bsFiles: {
-                    src : [
-                        '_site/**/*.*'
-                    ]
-                },
-                options: {
-                    watchTask: true,
-                    server: './_site'
-                }
-            }
+          dev: {
+              bsFiles: {
+                src : [
+                    '_site/**/*.*'
+                ]
+              },
+              options: {
+                watchTask: true,
+                server: './_site'
+              }
+          }
         },
         cssmin: {
           minify: {
@@ -61,8 +61,8 @@ module.exports = function (grunt) {
               expand: true,
               cwd: 'assets/css',
               src: ['**/*.css', '!**/*.min.css', '**/*.scss'],
-              dest: '_site/assets/css/main.css',
-              ext: '.min.css'
+              dest: '_site/assets/css',
+              ext: '.css'
             }]
           },
           options: {
@@ -75,13 +75,13 @@ module.exports = function (grunt) {
             }
           }
         }
-
     });
 
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-browser-sync');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.registerTask('build',['shell:jekyllBuild']);
     grunt.registerTask('default', ['build', 'browserSync', 'watch', 'cssmin' ]);
     grunt.registerTask('clean',['shell:jekyllClean']);
