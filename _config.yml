@@ -1,14 +1,14 @@
 ---
-title: vorex
+title: Online Business Management Software - PSA Software | Vorex
 timezone: US/Arizona
-
 collections:
   uploads:
     title: Uploads
     output: true
   posts:
-    title: vorex Posts
+    title: Vorex Blog Posts
     output: true
+    permalink: /blog/:title/
 defaults:
 - scope:
     path: ''
@@ -20,16 +20,13 @@ defaults:
   values:
     layout: default
     show-avatar: true
-
 gems:
 - jekyll-feed
 url: "/"
 enforce_ssl: ''
 baseurl: ''
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description. Text
-keywords: test1, test2, etc
+description: Vorex cloud-based business management software helps you focus on strategy to grow your business instead of tactical operational execution that frustrates, complicates and clogs up your day.
+keywords: cloud-based software, business management software, PSA Software
 desc: sample description
 avatar: ''
 profile:
@@ -62,7 +59,6 @@ styles:
   - default
   - white
   - black
-
 development:
   asset_url: "http://localhost:3000/assets"
   app_url: "http://localhost:3000/"
