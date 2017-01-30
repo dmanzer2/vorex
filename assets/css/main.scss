@@ -1177,3 +1177,11 @@ input[type="checkbox"]:checked + label:before, input[type="radio"]:checked + lab
 }
 
 .menuhidden { display:none; }
+
+.inline-block {
+  display: inline-block !important;
+}
+
+.block {
+  display: block !important;
+}
